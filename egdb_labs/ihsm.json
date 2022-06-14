@@ -1,0 +1,42 @@
+{
+  "group_name":"IHSM Subtropical horticulture Team",
+  "people":
+  [
+      {"person_name":"Noé Fernández Pozo","position":"Ramón y Cajal Researcher","picture":"noe.jpeg","link":"noe.php",
+        "more_info":[
+          "phone: (+34) 952132150",
+          "email: noe.fernandez.pozo@csic.es"
+        ]
+      },
+      {"person_name":"Aynhoa Gómez Ollé","position":"JAE Intro ICU Student","picture":"placeholder1.png","link":"person.php",
+        "more_info":[
+          "phone: (+34) 952134177",
+          "email: "
+        ]
+      },
+      {"person_name":"Librada Alcaraz Arco","position":"Research Assistant","picture":"placeholder1.png","link":"person.php",
+        "more_info":[
+          "phone: (+34) 952548990",
+          "email: librada@eelm.csic.es"
+        ]
+      },
+      {"person_name":"Gloria López Casado","position":"Research Assistant","picture":"gloria.jpg","link":"person.php",
+        "more_info":[
+          "phone: (+34) 952548990",
+          "email: glorialcasado@eelm.csic.es"
+        ]
+      },
+      {"person_name":"Antonio Matas Arroyo","position":"Professor","picture":"matas.jpeg","link":"https://www.ihsm.uma-csic.es/investigadores/211",
+        "more_info":[
+          "phone: (+34) 952132178",
+          "email: antoniojmatas@uma.es"
+        ]
+      },
+      {"person_name":"Iñaki Hormaza","position":"Professor","picture":"inaki.jpeg","link":"https://www.ihsm.uma-csic.es/investigadores/8",
+        "more_info":[
+          "phone: (+34) 952548990",
+          "email: ji.hormaza@csic.es"
+        ]
+      }
+    ]
+}

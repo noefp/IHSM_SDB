@@ -1,0 +1,72 @@
+{
+  "Persea americana":
+    {"sps_name":"Persea americana",
+      "common_name":"Avocado",
+      "image":"avocado1.png",
+      "public":"1",
+      "link":"avocado.php"
+    },
+  "Annona spp.":
+    {"sps_name":"Annona spp.",
+      "common_name":"Annona spp.",
+      "image":"cherimoya.png",
+      "public":"1",
+      "link":"annona.php"
+    },
+  "Litchi chinensis":
+    {"sps_name":"Litchi chinensis",
+      "common_name":"Litchi",
+      "image":"litchi.png",
+      "public":"1",
+      "link":"litchi.php"
+    },
+  "Dimocarpus longan":
+    {"sps_name":"Dimocarpus longan",
+      "common_name":"Longan",
+      "image":"longan.png",
+      "public":"1",
+      "link":"longan.php"
+    },
+  "Eriobotrya japonica":
+    {"sps_name":"Eriobotrya japonica",
+      "common_name":"Loquat",
+      "image":"loquat.png",
+      "public":"1",
+      "link":"loquat.php"
+    },
+  "Mangifera indica":
+    {"sps_name":"Mangifera indica",
+      "common_name":"Mango",
+      "image":"mango.png",
+      "public":"1",
+      "link":"mango.php"
+    },
+  "Carica papaya":
+    {"sps_name":"Carica papaya",
+      "common_name":"Papaya",
+      "image":"papaya.png",
+      "public":"1",
+      "link":"papaya.php"
+    },
+  "Asimina triloba":
+    {"sps_name":"Asimina triloba",
+      "common_name":"Pawpaw",
+      "image":"pawpaw.png",
+      "public":"1",
+      "link":"pawpaw.php"
+    },
+  "Hylocereus undatus":
+    {"sps_name":"Hylocereus undatus",
+      "common_name":"Pitaya",
+      "image":"pitaya.png",
+      "public":"1",
+      "link":"pitaya.php"
+    },
+  "Averrhoa carambola":
+    {"sps_name":"Averrhoa carambola",
+      "common_name":"Star fruit",
+      "image":"star_fruit.png",
+      "public":"1",
+      "link":"star_fruit.php"
+    }
+}
