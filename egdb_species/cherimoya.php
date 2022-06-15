@@ -34,21 +34,21 @@
   <div class="col">
     <div class="card" style="width:100%">
       <div class="card-body">
-        <a href="/downloads/pdfs/descriptores para chirimoyo.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Descriptores para chirimoyo</a>
+        <a href="/downloads/Annona%20cherimola/PDFs/descriptores para chirimoyo.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Descriptores para chirimoyo</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card" style="width:100%">
       <div class="card-body">
-        <a href="/downloads/pdfs/descriptors for cherimoya.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Descriptors for cherimoya</a>
+        <a href="/downloads/Annona%20cherimola/PDFs/descriptors for cherimoya.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Descriptors for cherimoya</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card" style="width:100%">
       <div class="card-body">
-        <a href="/downloads/pdfs/guia chirimoyo plagas.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Guia de gestion de plagas</a>
+        <a href="/downloads/Annona%20cherimola/PDFs/guia chirimoyo plagas.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Guia de gestion de plagas</a>
       </div>
     </div>
   </div>
