@@ -48,7 +48,7 @@
   <div class="col">
     <div class="card" style="width:100%">
       <div class="card-body">
-        <a href="/downloads/pdfs/guiachirimoyo_mapa_gob.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Guia de gestion de plagas</a>
+        <a href="/downloads/pdfs/guia chirimoyo plagas.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Guia de gestion de plagas</a>
       </div>
     </div>
   </div>
