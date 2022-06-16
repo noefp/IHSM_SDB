@@ -20,7 +20,7 @@
 </p>
 <p>
 	The <a href="https://www.ihsm.uma-csic.es/" target="_blank">Institute of Subtropical and Mediterranean Horticulture (IHSM)</a> comprehends the largest germplasm collection of varieties of <i>A. cherimola</i>, 
-	with 334 accessions.
+	with more than 300 accessions.
 </p>
 <p>
   Recently, the interest in this family has risen exponentially due to the presence of important compounds with medicinal properties, 
@@ -30,28 +30,67 @@
 
 <h3>Files</h3>
 
-<div class="row">
-  <div class="col">
-    <div class="card" style="width:100%">
+<div class="row" style="width:900px;margin-left:0px">
+  
+  <div class="col" style="padding:0px">
+    <div class="card">
       <div class="card-body">
         <a href="/downloads/Annona%20cherimola/PDFs/descriptores para chirimoyo.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Descriptores para chirimoyo</a>
       </div>
     </div>
   </div>
-  <div class="col">
-    <div class="card" style="width:100%">
+  <div class="col" style="padding:0px">
+    <div class="card">
       <div class="card-body">
         <a href="/downloads/Annona%20cherimola/PDFs/descriptors for cherimoya.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Descriptors for cherimoya</a>
       </div>
     </div>
   </div>
-  <div class="col">
-    <div class="card" style="width:100%">
+  <div class="col" style="padding:0px">
+    <div class="card">
       <div class="card-body">
         <a href="/downloads/Annona%20cherimola/PDFs/guia chirimoyo plagas.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Guia de gestion de plagas</a>
       </div>
     </div>
   </div>
+</div>
+  
+<div class="row" style="width:900px;margin-left:0px">
+  
+  <div class="col" style="padding:0px">
+    <div class="card">
+      <div class="card-body">
+        <a href="/downloads/Annona%20cherimola/PDFs/chirimoya_fao_ficha_tecnica_2006.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Ficha técnica FAO 2006</a>
+      </div>
+    </div>
+  </div>
+  <div class="col" style="padding:0px">
+    <div class="card">
+      <div class="card-body">
+        <a href="/downloads/Annona%20cherimola/PDFs/chirimoya_valor_nutricional_fen_org.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Valor nutricional FEN.org.es</a>
+      </div>
+    </div>
+  </div>
+  
+</div>
+  
+<div class="row" style="width:900px;margin-left:0px">
+  
+  <div class="col" style="padding:0px">
+    <div class="card">
+      <div class="card-body">
+        <a href="/downloads/Annona%20cherimola/PDFs/Cherla_Spanish.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Optimizacion de tecnicas de cultivo</a>
+      </div>
+    </div>
+  </div>
+  <div class="col" style="padding:0px">
+    <div class="card">
+      <div class="card-body">
+        <a href="/downloads/Annona%20cherimola/PDFs/Cherla_English.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Optimization of cultural techniques</a>
+      </div>
+    </div>
+  </div>
+  
 </div>
 
 
@@ -65,3 +104,11 @@
 </p>
 
 <?php include_once("cherimoya_genome_table.php");?>
+
+<h3>Links of interest</h3>
+
+<ul>
+  <li><a href="https://bancocrf.inia.es/es/accessions?institute_code=ESP058&taxon=Annona&rank=genus" target="_blank">Cherimoya Spanish Germplasm Bank</a></li>
+  <li><a href="https://www.cabi.org/isc/datasheet/5806" target="_blank">Cherimoya Datasheet at CABI</a></li>
+</ul>
+
