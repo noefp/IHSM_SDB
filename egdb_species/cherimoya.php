@@ -6,11 +6,14 @@
 <br>
 <br>
 <p>
-  <i>Annona cherimola</i> is a diploid species (2n=2x=14), which originated in Mesoamerica. 
-	It is a deciduous tree and it shows hermaphroditic flowers with protogynous dichogamy, recurrent in basal angiosperm.
+  <i>Annona cherimola</i> is a diploid species (2n=2x=14), which originated in Mesoamerica.
 	It is denominated as Cherimoya or "chirimoya" in South America and "Anona" in Central America as other closely related species. 
 	In fact, this word was used by Linnaeus to name the genus Annona, but referred to it as the Latin Word "annona" which means "the harvest of a year". 
-	This perennial fruit crop has been cultivated and extremely appreciated since pre-Columbian times of the Maya, Olmec or/and Izapa civilizations.
+	This perennial fruit crop has been cultivated and extremely appreciated since pre-Columbian times by the Maya, Olmec or/and Izapa civilizations.
+</p>
+<p>
+	The cherimoya tree has hermaphroditic flowers and protogynous dichogamy, where female and male structures mature at different times
+  to prevent self-fertilization and encourage cross-pollination. 
 </p>
 <p>
 	Spain is the principal cherimoya commercial producer country with about 3,000 ha followed by Peru and Chile. 
