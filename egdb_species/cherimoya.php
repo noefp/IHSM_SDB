@@ -22,12 +22,12 @@
 	Australia, Italy, Morocco, Algeria, Egypt and Israel.
 </p>
 <p>
-	The <a href="https://www.ihsm.uma-csic.es/" target="_blank">Institute of Subtropical and Mediterranean Horticulture (IHSM)</a> comprehends the largest germplasm collection of varieties of <i>A. cherimola</i>, 
+	The <a href="https://www.ihsm.uma-csic.es/" target="_blank">Institute of Subtropical and Mediterranean Horticulture (IHSM)</a> maintains the largest germplasm collection of varieties of <i>A. cherimola</i>, 
 	with more than 300 accessions.
 </p>
 <p>
   Recently, the interest in this family has risen exponentially due to the presence of important compounds with medicinal properties, 
-	some of them exclusive in the Annonaceae, as polyketide secondary metabolites acetogenins, presents especially in seed and leaves, 
+	some of them exclusive in the Annonaceae, as polyketide secondary metabolites acetogenins, present especially in seed and leaves, 
 	with antitumor, antimalarial and pesticidal properties.
 </p>
 
@@ -103,7 +103,7 @@
 <h3>Genome assembly stats</h3>
 
 <p>
-	The <i>A. cherimola</i> genome cv. Fino de Jete was published in <a href="#">Talavera et al. 2022</a>.
+	The <i>A. cherimola</i> genome cv. Fino de Jete was published by <a href="#">Talavera et al. 2022</a>.
 </p>
 
 <?php include_once("cherimoya_genome_table.php");?>
