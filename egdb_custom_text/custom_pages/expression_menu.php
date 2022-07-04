@@ -11,8 +11,10 @@ if ( file_exists("$expression_path/expression_info.json") ) {
       
       $desc_file = $annot_hash[$r_key]["description"];
       if ( file_exists("$expression_path/$desc_file") ) {
+        $data_set_name = preg_replace('/\.[a-z]{3}$/',"",$r_key);
+        $data_set_name = str_replace("_"," ",$data_set_name);
         
-        echo "<h2 style=\"font-size:20px\">$r_key</h2>";
+        echo "<h2 style=\"font-size:20px\">$data_set_name</h2>";
         include("$expression_path/$desc_file");
         echo"<br>";
       }
