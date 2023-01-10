@@ -103,7 +103,7 @@
 <h3>Genome assembly stats</h3>
 
 <p>
-	The <i>A. cherimola</i> genome cv. Fino de Jete was published by <a href="#">Talavera et al. 2022</a>.
+	The <i>A. cherimola</i> genome cv. Fino de Jete was published by <a href="#">Talavera et al. 2023; Under review</a>.
 </p>
 
 <?php include_once("cherimoya_genome_table.php");?>
