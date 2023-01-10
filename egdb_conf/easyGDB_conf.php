@@ -21,8 +21,9 @@ $db_logo = "logo_tb.png";
 // Toolbar
 $tb_about = 0;
 $tb_downloads = 1;
-$tb_species = 0;
+$tb_species = 1;
 $tb_search_box = 1;
+$tb_tools = 1;
 $tb_search = 1;
 $tb_blast = 1;
 $tb_jbrowse = 1;
@@ -40,10 +41,6 @@ $ab_labs = 1;
 //Gene examples
 $gene_sample = "";
 $input_gene_list="Anche102Chr1g0000030.1
-Anche102Chr1g0000040.1
-Anche102Chr1g0000050.1";
-
-$expr_input_gene_list="Anche102Chr1g0000030.1
 Anche102Chr1g0000040.1
 Anche102Chr1g0000050.1";
 
