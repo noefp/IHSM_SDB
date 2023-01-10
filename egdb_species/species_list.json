@@ -10,7 +10,7 @@
       {"sps_name":"Mangifera indica",
         "common_name":"Mango",
         "image":"mango.png",
-        "public":"1",
+        "public":"0",
         "link":"mango.php"
       }
 }
