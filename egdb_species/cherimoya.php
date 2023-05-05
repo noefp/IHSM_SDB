@@ -1,10 +1,11 @@
-<a href="/jbrowse/?data=data/anche102" class="btn btn-info" role="button">Genome Browser</a>
-<a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info" role="button">BLAST</a>
-<a href="/easy_gdb/downloads.php#Annonacherimola" class="btn btn-info" role="button">Downloads</a>
-<a href="/easy_gdb/tools/fasta_download.php" class="btn btn-info" role="button">Sequence Extraction</a>
-<a href="/easy_gdb/tools/annot_input_list.php" class="btn btn-info" role="button">Annotation Extraction</a>
-<br>
-<br>
+<div style="height:60px">
+<a href="/jbrowse/?data=data/anche102" class="btn btn-info sps-btn" role="button">Genome Browser</a>
+<a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button">BLAST</a>
+<a href="/easy_gdb/tools/fasta_download.php" class="btn btn-info sps-btn" role="button">Sequence Extraction</a>
+<a href="/easy_gdb/tools/annot_input_list.php" class="btn btn-info sps-btn" role="button">Annotation Extraction</a>
+<a href="/easy_gdb/downloads.php#Annonacherimola" class="btn btn-info sps-btn" role="button">Downloads</a>
+</div>
+
 <p>
   <i>Annona cherimola</i> is a diploid species (2n=2x=14), which originated in Mesoamerica.
 	It is denominated as Cherimoya or "chirimoya" in South America and "Anona" in Central America as other closely related species. 
@@ -26,12 +27,12 @@
 	with more than 300 accessions.
 </p>
 <p>
-  Recently, the interest in this family has risen exponentially due to the presence of important compounds with medicinal properties, 
+  Recently, the interest in this family has risen significantly due to the presence of important compounds with medicinal properties, 
 	some of them exclusive in the Annonaceae, as polyketide secondary metabolites acetogenins, present especially in seed and leaves, 
 	with antitumor, antimalarial and pesticidal properties.
 </p>
 
-<h3>Files</h3>
+<h3>Documents</h3>
 
 <div class="row" style="width:900px;margin-left:0px">
   
@@ -103,7 +104,7 @@
 <h3>Genome assembly stats</h3>
 
 <p>
-	The <i>A. cherimola</i> genome cv. Fino de Jete was published by <a href="#">Talavera et al. 2023; Under review</a>.
+	The <i>A. cherimola</i> genome cv. Fino de Jete was published by <a href="https://doi.org/10.1002/ppp3.10366" target="_blank">Talavera et al. 2023</a>.
 </p>
 
 <?php include_once("cherimoya_genome_table.php");?>
