@@ -33,6 +33,7 @@ $tb_gene_expr = 0;
 $tb_lookup = 1;
 $tb_more = 0;
 $tb_custom = 0;
+$tb_enrichment = 1;
 
 // About
 $ab_citation = 1;
