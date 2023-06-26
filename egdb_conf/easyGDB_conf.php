@@ -50,6 +50,7 @@ $max_lookup_input = 10000;
 $max_extract_seq_input = 10000;
 $max_blast_input = 20;
 $max_expression_input = 15;
+$max_annotation_input = 5000;
 
 // BLAST
 $blast_example=">protein_or_DNA
