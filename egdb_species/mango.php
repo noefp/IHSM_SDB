@@ -5,10 +5,13 @@
 <a href="https://mangobase.org/easy_gdb/tools/annot_input_list.php" class="btn btn-info sps-btn" role="button" target="_blank">Annotation Extraction</a>
 <a href="https://mangobase.org/easy_gdb/tools/gene_enrichment.php" class="btn btn-info sps-btn" role="button" target="_blank">Gene enrichment</a>
 <a href="https://mangobase.org/easy_gdb/downloads.php" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
-<br>
-<br>
-<br>
-<br>
+<br style="clear:both" />
+
+<p style="text-align:left;">
+Genomics tools and data available at:
+<a href="https://mangobase.org/easy_gdb/index.php" target="_blank"><img src='<?php echo "$images_path/mangobase_banner.png";?>' style="width:100%; max-width:900px"></a>
+</p>
+
 
 <p style="margin-top:20px">
   The mango (<i>Mangifera indica</i> L.) (2n=40) is a member of the <i>Anacardiaceae</i> family, native to India and traditionally grows in tropical climates (<a href="https://www.phytojournal.com/archives/2017.v6.i6.2226/mango-history-origin-and-distribution" target="_blank">Yadav and Singh, 2017</a>). 
@@ -114,15 +117,10 @@
   <li>cv. Irwin, by <a href="https://www.frontiersin.org/articles/10.3389/fpls.2021.749108/full">Ma et al., 2021</a>. Only raw data available at the <a href="https://ngdc.cncb.ac.cn/search/?dbId=&q=CRA004336" target="_blank">NGDC CNCB</a>.</li>
   <li>cv. Hong Xiang Ya, by <a href="https://www.biorxiv.org/content/10.1101/2020.02.22.960880v1">Li et al., 2020</a>. Available at the <a href="https://ngdc.cncb.ac.cn/gwh/Assembly/967/show" target="_blank">NGDC CNCB Genome</a>.</li>
 </ul>
-<p>
+<!-- <p>
   More information available in <a href=¨https://mangobase.org/easy_gdb/custom_view.php?file_name=genome.php¨ target="_blank">MangoBase</a>.
-</p>
+</p> -->
 
-<h3>Links of interest</h3>
-
-<ul>
-  <li><a href="https://mangobase.org/easy_gdb/index.php" target="_blank">MangoBase</a></li>
-</ul>
 
 <h3>Taxonomy</h3>
 
