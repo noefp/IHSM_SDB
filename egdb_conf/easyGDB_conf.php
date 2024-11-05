@@ -13,7 +13,15 @@ $images_path = "/$egdb_files_folder/egdb_images";
 $custom_text_path = "$root_path/$egdb_files_folder/egdb_custom_text";
 $species_path = "$root_path/$egdb_files_folder/egdb_species";
 $lab_path = "$root_path/$egdb_files_folder/egdb_labs";
+
+$annotations_path = "$root_path/annotations";
 $annotation_links_path = "$root_path/$egdb_files_folder/annotations";
+
+$passport_path = "$root_path/passport";
+$phenotype_imgs_path = "$images_path/descriptors_imgs";
+
+// Select 1 to store annotations in files or 0 to store annotations in a relational database.
+$file_database = 1;
 
 // header
 $dbTitle = "IHSM Subtropicals DB";
@@ -33,8 +41,7 @@ $tb_seq_ext = 1;
 $tb_annot_ext = 1;
 $tb_gene_expr = 0;
 $tb_lookup = 1;
-$tb_more = 0;
-$tb_custom = 0;
+$tb_custom = 1;
 $tb_enrichment = 1;
 
 // About
