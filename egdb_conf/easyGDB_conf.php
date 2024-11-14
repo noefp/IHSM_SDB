@@ -32,8 +32,9 @@ $db_logo = "logo_tb.png";
 $tb_about = 0;
 $tb_downloads = 1;
 $tb_species = 1;
-$tb_search_box = 1;
-$tb_tools = 1;
+$tb_search_box = 0;
+
+$tb_tools = 0;
 $tb_search = 1;
 $tb_blast = 1;
 $tb_jbrowse = 1;
