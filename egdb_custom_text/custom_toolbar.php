@@ -12,14 +12,16 @@
   </div>
 </li>
 
-<li class="nav-item dropdown">
+<li class="nav-item"><a class="nav-link" href="/easy_gdb/downloads.php">Downloads</a></li>
+
+<!-- <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Expression Atlas</a>
   <div class="dropdown-menu">
     <a class="dropdown-item" href="/easy_gdb/tools/expression/expression_input.php">Experiment Expression Viewer</a>
     <a class="dropdown-item" href="/easy_gdb/tools/expression/comparator_input.php">Expression comparator</a>
     <a class="dropdown-item" href="/easy_gdb/tools/expression/expression_menu.php">Datasets</a>
   </div>
-</li>
+</li> -->
 <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Private</a>
   <div class="dropdown-menu">
