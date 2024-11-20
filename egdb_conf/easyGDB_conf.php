@@ -75,7 +75,7 @@ Anche102Chr1g0000050.1";
 $max_lookup_input = 10000;
 $max_extract_seq_input = 10000;
 $max_blast_input = 20;
-$max_expression_input = 15;
+$max_expression_input = 150;
 $max_annotation_input = 20000;
 
 // BLAST
