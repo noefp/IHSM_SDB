@@ -1,7 +1,9 @@
 {
+"Lab1":
+  {
   "group_name":"IHSM Subtropical horticulture Team",
   "people":
-  [
+    [
       {"person_name":"Noé Fernández Pozo","position":"Ramón y Cajal Researcher","picture":"noe.jpeg","link":"noe.php",
         "more_info":[
           "phone: (+34) 952132150",
@@ -39,4 +41,5 @@
         ]
       }
     ]
+  }
 }

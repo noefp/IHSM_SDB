@@ -1,0 +1,82 @@
+{
+  "01 Annona squamosa Pulp Ripening.txt":
+    {"link":"",
+      "description":"01 Annona squamosa Pulp Ripening.php",
+      "annotation_file":"Annona/Annona_cherimola_Annotations.txt",
+      "images":
+        {
+          "A.P. - 30 DAP":"ap30dap.jpeg",
+          "A.P. - 100 DAP":"ap100dap.jpeg",
+          "A.P. - 130 DAP":"ap130dap.jpeg",
+          "A.P. - 6 DAH":"ap6dah.jpeg",
+          "A.P. - 8 DAH":"ap8dah.jpeg",
+          "Gefner - 30 DAP":"gefner30dap.jpeg",
+          "Gefner - 100 DAP":"gefner100dap.jpeg",
+          "Gefner - 130 DAP":"gefner130dap.jpeg",
+          "Gefner - 6 DAH":"gefner6dah.jpeg",
+          "Gefner - 8 DAH":"gefner8dah.jpeg"
+        }
+    },
+  "02 Annona squamosa Flower Development.txt":
+    {"link":"",
+      "description":"02 Annona squamosa Flower Development.php",
+      "annotation_file":"Annona/Annona_cherimola_Annotations.txt",
+      "images":
+        {
+          "IM":"IM.jpeg",
+          "FB":"FB.jpeg",
+          "FL1":"FL1.jpeg",
+          "FL2":"FL2.jpeg"
+        }
+    },
+  "03 Annona squamosa Normal and Malformed Flowers.txt":
+    {"link":"",
+      "description":"03 Annona squamosa Normal and Malformed Flowers.php",
+      "annotation_file":"Annona/Annona_cherimola_Annotations.txt",
+      "images":
+        {
+          "Normal Flowers":"Normal Flower 1.jpeg",
+          "Malformed Flowers":"Malformed Flower 1.jpeg"
+        }
+    },
+  "04 Atemoya Pericarp Fruits with Ethylene Treatment.txt":
+    {"link":"",
+      "description":"04 Atemoya Pericarp Fruits with Ethylene Treatment.php",
+      "annotation_file":"Annona/Annona_cherimola_Annotations.txt",
+      "images":
+        {
+           "NT-0":"NT-0.jpeg",
+           "NT-PC-1":"NT-PC-1.jpeg",
+           "NT-PC-2":"NT-PC-2.jpeg",
+           "NT-PC-3":"NT-PC-3.jpeg",
+           "Eth-24": "Eth-24.jpeg",
+           "Eth-NC": "Eth-NC.jpeg",
+           "Eth-PC": "Eth-PC.jpeg"
+        }
+    },
+  "05 Atemoya Split and Non-Split Fruits.txt":
+    {"link":"",
+      "description":"05 Atemoya Split and Non-Split Fruits.php",
+      "annotation_file":"Annona/Annona_cherimola_Annotations.txt",
+      "images":
+        {
+           "NSF":"nsf0.jpeg",
+           "SF":"sf0.jpeg"
+        }
+    },
+  "Annona FDJ.txt":
+    {"link":"",
+      "annotation_file":"Annona/Annona_cherimola_Annotations.txt",
+      "description":"Annona FDJ.php",
+      "cartoons":"cartoons_annona_fdj.json",
+      "images":
+        {
+          "Pulp_2DBR":"2dbp.jpeg",
+          "Pulp_2DAR":"2dap.jpeg",
+          "Ripe_Pulp":"fdjp.jpeg",
+          "Camisa":"camisa.jpeg",
+          "Central_Axis":"fdj_ec.jpeg",
+          "Peel":"fdj_peel.jpeg"
+        }
+    }
+}

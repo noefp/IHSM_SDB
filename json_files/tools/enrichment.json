@@ -1,0 +1,9 @@
+{
+  "A.thaliana":
+    {"gprofiler_sps" : "athaliana",
+      "lookup_files":
+      [
+        "Best_BLAST_hit_between_Cherimoya_and_arabidopsis.txt"
+      ]
+    }
+}

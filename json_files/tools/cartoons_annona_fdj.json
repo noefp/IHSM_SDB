@@ -1,0 +1,53 @@
+{
+  "cartoons":
+    [
+      { "img_id":"t1",
+        "sample":"Pulp_2DAR",
+        "image":"2dam.png",
+        "x":10,
+        "y":10,
+        "width":1100,
+        "height":572
+      },
+      { "img_id":"t2",
+        "sample":"Pulp_2DBR",
+        "image":"2dbm.png",
+        "x":10,
+        "y":10,
+        "width":1100,
+        "height":572
+      },
+      { "img_id":"t3",
+        "sample":"Camisa",
+        "image":"camisa.png",
+        "x":10,
+        "y":10,
+        "width":1100,
+        "height":572
+      },
+      { "img_id":"t4",
+        "sample":"Central_Axis",
+        "image":"central_axis.png",
+        "x":10,
+        "y":10,
+        "width":1100,
+        "height":572
+      },
+      { "img_id":"t5",
+        "sample":"Ripe_Pulp",
+        "image":"pulp.png",
+        "x":10,
+        "y":10,
+        "width":1100,
+        "height":572
+      },
+      { "img_id":"t6",
+        "sample":"Peel",
+        "image":"peel.png",
+        "x":10,
+        "y":10,
+        "width":1100,
+        "height":572
+      }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "Annona_cherimola_genome_v102.fasta":"/jbrowse/?data=data%2Fanche102&loc={chr}%3A{start}..{end}",
+  "Annona_cherimola_CDS_v102.fasta":"/easy_gdb/gene.php?name={subject}&annot=Annona/Annona_cherimola_Annotations.txt",
+  "Annona_cherimola_proteins_v102.fasta":"/easy_gdb/gene.php?name={subject}&annot=Annona/Annona_cherimola_Annotations.txt",
+  "Annona_cherimola_transcripts_v102.fasta":"/easy_gdb/gene.php?name={subject}&annot=Annona/Annona_cherimola_Annotations.txt"
+}
+
+
