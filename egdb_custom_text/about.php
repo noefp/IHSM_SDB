@@ -1,18 +1,15 @@
 <p class="p_font18">
-  This is a template to write your own about us page. 
-  Please, follow the instructions to create your own custom_text folder and include the path in the configuration file.
+  Welcome to our About Us page.
 </p>
 <p>
-  Lorem ipsum dolor sit amet consectetur adipiscing elit mus nisi vel risus semper sagittis vitae, 
-  luctus platea quisque cum nascetur sem ligula leo magnis cursus cubilia pulvinar. 
-  Habitasse praesent platea nunc pharetra laoreet etiam congue proin, nostra vehicula nec quis iaculis molestie integer diam viverra, 
-  primis nullam gravida massa tempor curae metus. Vitae vivamus nascetur eros mus viverra nostra fames sagittis faucibus donec, 
-  cubilia interdum volutpat augue nisl libero fermentum proin quisque, mollis erat facilisi posuere rutrum luctus quis imperdiet pretium.
+  Our group's activity revolves around the sustainable utilization of genetic resources in subtropical fruit trees, considering both current conditions and future climate change projections. This initiative stands as a unique endeavor within the CSIC. We collect detailed knowledge of plant materials, advanced cultivation techniques, and the utilization of genomic tools to pursue the following specific objectives:
 </p>
+<ol>
+  <li>Study, conservation, and utilization of plant genetic resources.</li>
+  <li>Exploration of reproductive biology implications in fruit setting.</li>
+  <li>Development of innovative cultural technologies to enhance productivity and quality.</li>
+  <li>Selection of plant materials for incorporation into improvement programs via classical and biotechnological methods.</li>
+</ol>
 <p>
-  Risus sollicitudin facilisis integer luctus hendrerit aliquet natoque senectus suspendisse, 
-  parturient facilisi laoreet tempor hac cum mi egestas ridiculus, accumsan lacinia inceptos diam commodo per bibendum nullam. 
-  Morbi blandit a suspendisse quis nascetur dignissim tellus, ante ad curabitur leo mauris taciti sollicitudin habitasse, 
-  diam pharetra euismod tristique aliquet nam. Dis nascetur vivamus justo libero platea interdum feugiat tellus, 
-  ad commodo nec etiam volutpat imperdiet viverra, habitasse suspendisse arcu porttitor lacinia iaculis aenean.
+  Our commitment lies in exploring the intricate dynamics between genetics, agriculture, and environmental sustainability. By integrating cutting-edge genomic approaches with traditional agricultural practices, we strive to pave the way towards a more resilient and fruitful future for subtropical fruit cultivation.
 </p>
