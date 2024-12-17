@@ -9,47 +9,41 @@
 
 <p style="text-align:left;">
 Genomics tools and data available at:
-<a href="https://mangobase.org/easy_gdb/index.php" target="_blank"><img src='<?php echo "$images_path/mangobase_banner.png";?>' style="width:100%; max-width:900px"></a>
+</p>
+
+<p style="text-align:center;">
+<a href="https://mangobase.org/easy_gdb/index.php" target="_blank"><img src='<?php echo "$images_path/mangobase_banner.png";?>' style="width:60%;"></a>
 </p>
 
 
-<p style="margin-top:20px">
-  The mango (<i>Mangifera indica</i> L.) (2n=40) is a member of the <i>Anacardiaceae</i> family, native to India and traditionally grows in tropical climates (<a href="https://www.phytojournal.com/archives/2017.v6.i6.2226/mango-history-origin-and-distribution" target="_blank">Yadav and Singh, 2017</a>). 
-  Mangoes are an important fruit crop grown in over 103 countries across the tropical and subtropical zones (<a href="https://scholar.google.com/scholar_lookup?title=Food%20and%20agriculture%20data.%202011&publication_year=2017" target="_blank">FAOSTAT, 2017</a>; <a href="https://www.actahort.org/books/1183/1183_51.htm" target="_blank">Galan, 2017</a>). 
-  <i>Mangifera indica</i> is the most important species of the genus, which produces the most delicious fruit called the mango. 
-  <i>Mangifera indica</i> has enormous variability at the levels of wild types and cultivars and is closely related to <i>Mangifera longipes</i> and <i>Mangifera sylvatica</i>. 
-  The mango comes in over 50 varieties, ranging in color from greenish, yellowish, to reddish, often tinged with purple, pink, orange-yellow, or red (<a href="https://www.phytojournal.com/archives/2017.v6.i6.2226/mango-history-origin-and-distribution" target="_blank">Yadav and Singh, 2017</a>).
-</p>
 <p>
-  Depending on the cultivar, mango varies in sensory properties (size, shape, weight, sweetness, and skin color) as well as nutritional and nutraceutical values (<a href="https://pubmed.ncbi.nlm.nih.gov/30502173/" target="_blank">Gentile et al., 2019</a>).  
-  The chemical composition of mango pulp varies with the location of cultivation, variety, and stage of maturity (<a href="https://www.tandfonline.com/doi/full/10.1080/87559120600574493" target="_blank">Tharanathan et al., 2007</a>). 
-  The fruit ripening process involves a series of physiological, biochemical, and organoleptic changes that lead to the development of a soft, edible, ripe fruit with desirable qualities.  
-  Mango is an excellent source of polyphenols (<a href="https://www.sciencedirect.com/science/article/pii/S1466856400000151" target="_blank">Schieber et al., 2000</a>; <a href="https://link.springer.com/article/10.1007/s11130-006-0035-3" target="_blank">Rocha et al., 2007</a>). 
-  The polyphenolic profile in mango fruit is complex and it varies depending on the variety, physiological maturity stage, and the part of the fruit (peel, pulp, seed kernel) (<a href="https://www.sciencedirect.com/science/article/pii/S0308814606008016" target="_blank">Abdalla et al., 2007</a>).
-  Specifically, mangiferin is found in the mango peel, a unique bioactive compound, of which many pharmacological activities have been documented: antioxidant, radioprotective, inmunomodulatory, antiallergic, antiinflammatory, antitumor, antidiabetic, lipolytic, etc (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249901/" target="_blank">Shah et al., 2010</a>). 
-  This makes mango a promising source of polyphenols (<a href="https://pdfs.semanticscholar.org/69b5/0cb6a97f6e56255484157c5367d137dad86d.pdf" target="_blank">Stohs et al., 2018</a>).
+  The mango (<i>Mangifera indica</i> L.) is a diploid fruit species (2n=40) belonging to the Anacardiaceae family, native to India. It is widely grown in tropical and subtropical climates and represents one of the most important fruit crops globally.
 </p>
-<p>
-  The mango tree is large, tropical (<a href="https://scholar.google.com/scholar_lookup?title=Food%20and%20agriculture%20data.%202011&publication_year=2017" target="_black">FAOSTAT, 2017</a>), 10 to 40 m tall, evergreen with a symmetrical, round and broad canopy, or more upright with a relatively thin crown. 
-  Its color varies from green to yellow through red. The flowers (yellowish or reddish) are borne in inflorescences, which appear at the ends of the branches in dense panicles of up to 2000 flowers (5-10 mm in diameter). 
-  They are monoecius, polygamous and hermaphrodites. Both male and perfect flowers are found in one inflorescence. 
-  The pistil aborts in the male flowers (<a href="https://scholar.google.com/scholar_lookup?hl=en&publication_year=1980&pages=184-257&author=S.+Lakshminarayana&isbn=%00null%00&title=+Tropical+and+Subtropical+fruits%3A+Composition%2C+Properties+and+Uses+" target="_blank">Lakshminarayana, 1980</a>; <a href="https://www.tandfonline.com/doi/full/10.1080/07352689.2012.743399" target="_blank">Singh, 1990</a>; <a href="https://scholar.google.com/scholar_lookup?hl=en&publication_year=1997&pages=1-19&author=S.K.+Mukherjee&isbn=%00null%00&title=+The+Mango%3A+Botany%2C+Production+and+Uses+" target="_blank">Mukherjee, 1997</a>).
-<p>
-  Mango trees have enormous potential to produce fruit. 
-  Mature trees produce up to 1000 inflorescences, each with 500-6000 flowers (<a href="https://scholar.google.com/scholar_lookup?hl=en&publication_year=1987&pages=%00empty%00&author=A.B.+Clarke&author=B.A.+Clarke&isbn=%00null%00&title=+A+description+of+preharvest+factors+affecting+yield+in+mango+%28Mangifera+indica+L.%29+in+mangoes%E2%80%94a+review+" target="_blank">Clarke and Clarke, 1987</a>) of which 10% set and only 0.1-0.25% reach the harvest stage (<a href="https://www.cabdirect.org/cabdirect/abstract/19731609257" target="_blank">Purseglove, 1974</a>).
-  The number of flowers and the ration of hermaphroditic flowers to male flowers vary according to cultivar, climatic conditions, their location on the tree and production of the previous season (<a href="https://scholar.google.com/scholar_lookup?title=Introduction%3A%20botany%20and%20importance&pages=1-18&publication_year=2009&author=Mukherjee%2CSK&author=Litz%2CRE" target="_blank">Mukherjee and Litz, 2009</a>)
-  Morphological studies have shown that the genus can be separated under two sections base don the character of the flower disc. 
-  The first with 34 speciees has flowers with well-developed swollen disc, where as the second with 7 species has obsolete or pedicelle disc (<a href="https://www.phytojournal.com/archives/2017.v6.i6.2226/mango-history-origin-and-distribution" target="_blank">Yadav and Singh, 2017</a>). 
-</p>
-<p>
-  The mango fruit is a simple, large, more or less compressed, fleshy and resinous drupe. 
-  It exhibits great variation in size, shape, color, fiber content, flavor and taste. 
-  It has a protective leathery skin that is smooth green and waxy, turning pale green or yellow with red spots when mature, depending on the cultivar (<a href="https://scholar.google.com/scholar_lookup?hl=en&publication_year=1980&pages=184-257&author=S.+Lakshminarayana&isbn=%00null%00&title=+Tropical+and+Subtropical+fruits%3A+Composition%2C+Properties+and+Uses+" target="_blank">Lakshminarayana, 1980</a>).
-</p>
-<p>
-  Recent research has demonstrated the prebiotics effects of mango polyphenols and dietary fiber for intestinal health and in the prevention of chronic inflamatory diseases 
-  due to their potential contribution to reducing intestinal inflammation and promoting intestinal health (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4189530/" target="_blank">Ferreira et al., 2014</a>; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5655955/" target="_blank">He and Shi, 2017</a>; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6314516/" target="_blank">Durack and Lynch, 2019</a>). 
-</p>
+
+<ul>
+
+  <li>
+    <strong>Floral Biology:</strong>  
+    Mango trees are large, evergreen, and tropical, growing 10 to 40 meters tall with broad or upright canopies. The flowers are borne in dense inflorescences, consisting of both male and hermaphroditic flowers, which support cross-pollination. Mature trees produce up to 1000 inflorescences, each with thousands of flowers.
+  </li>
+
+  <li>
+    <strong>Varieties and Characteristics:</strong>  
+    Mango comes in over 50 varieties with diverse characteristics, including variations in color (greenish, yellowish, reddish), size, shape, and taste. Its fruit has a leathery, protective skin that turns pale green, yellow, or red when mature, depending on the cultivar.
+  </li>
+
+  <li>
+    <strong>Geographic Production:</strong>  
+    Mangoes are cultivated in over 103 countries across tropical and subtropical regions. Key producers include India, the largest global producer, along with countries like Thailand, Mexico, and Brazil.
+  </li>
+
+  <li>
+    <strong>Nutritional and Medicinal Importance:</strong>  
+    Mango is rich in polyphenols, particularly mangiferin, which exhibits antioxidant, anti-inflammatory, antitumor, and antidiabetic properties. The fruit's dietary fiber and polyphenols contribute to intestinal health and the prevention of chronic inflammatory diseases.
+  </li>
+</ul>
+
+<br>
 
 <h3>Documents</h3>
 
@@ -102,8 +96,7 @@ Genomics tools and data available at:
   
 </div>
 
-
-<!-- <div style="height:80px"></div> -->
+<br>
 <br>
 
 <h3>Genome assemblies</h3>
@@ -117,10 +110,8 @@ Genomics tools and data available at:
   <li>cv. Irwin, by <a href="https://www.frontiersin.org/articles/10.3389/fpls.2021.749108/full">Ma et al., 2021</a>. Only raw data available at the <a href="https://ngdc.cncb.ac.cn/search/?dbId=&q=CRA004336" target="_blank">NGDC CNCB</a>.</li>
   <li>cv. Hong Xiang Ya, by <a href="https://www.biorxiv.org/content/10.1101/2020.02.22.960880v1">Li et al., 2020</a>. Available at the <a href="https://ngdc.cncb.ac.cn/gwh/Assembly/967/show" target="_blank">NGDC CNCB Genome</a>.</li>
 </ul>
-<!-- <p>
-  More information available in <a href=¨https://mangobase.org/easy_gdb/custom_view.php?file_name=genome.php¨ target="_blank">MangoBase</a>.
-</p> -->
 
+<br>
 
 <h3>Taxonomy</h3>
 

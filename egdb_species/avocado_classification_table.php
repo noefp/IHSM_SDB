@@ -2,31 +2,30 @@
       <table class="table table-bordered">
          <tbody>
            <tr>
-             <td>Kingdom</td>
-             <td><i>Plantae</i></td>
+             <th>Kingdom</th>
+             <td>Plantae</td>
            </tr>
            <tr>
-             <td>Division</td>
-             <td><i>Magnoliophyta</i></td>
+             <th>Phylum</th>
+             <td>Streptophyta</td>
+           </tr>
+             <th>Class</th>
+             <td>Magnoliopsida</td>
            </tr>
            <tr>
-             <td>Class</td>
-             <td><i>Magnoliopsida</i></td>
+             <th>Order</th>
+             <td>Laurales</td>
            </tr>
            <tr>
-             <td>Order</td>
-             <td><i>Laurales</i></td>
+             <th>Family</th>
+             <td>Lauraceae</td>
            </tr>
            <tr>
-             <td>Family</td>
-             <td><i>Lauraceae</i></td>
+             <th>Genus</th>
+             <td><i>Persea</i> Mill.</td>
            </tr>
            <tr>
-             <td>Genus</td>
-             <td><i>Persea</i></td>
-           </tr>
-           <tr>
-             <td>Species</td>
+             <th>Species</th>
              <td><i>Persea americana</i> Mill.</td>
            </tr>
          </tbody>

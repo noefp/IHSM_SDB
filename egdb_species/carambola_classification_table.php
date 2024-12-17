@@ -14,19 +14,19 @@
            </tr>
            <tr>
              <th>Order</th>
-             <td>Sapindales</td>
+             <td>Oxalidales</td>
            </tr>
            <tr>
              <th>Family</th>
-             <td>Anacardiaceae</td>
+             <td>Oxalidaceae</td>
            </tr>
            <tr>
              <th>Genus</th>
-             <td><i>Mangifera</i> L.</td>
+             <td><i>Averrhoa</i> L.</td>
            </tr>
            <tr>
              <th>Species</th>
-             <td><i>Mangifera indica</i> L.</td>
+             <td><i>Averrhoa carambola</i> L.</td>
            </tr>
          </tbody>
        </table>

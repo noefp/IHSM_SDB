@@ -19,5 +19,26 @@
         "image":"avocado.png",
         "public":"1",
         "link":"avocado.php"
-      }
+      },
+    "Averrhoa carambola":
+      {"sps_name":"Averrhoa carambola",
+      "common_name":"Carambola",
+      "image":"carambola.png",
+      "public":"1",
+      "link":"carambola.php"
+    },
+    "Asimina triloba":
+      {"sps_name":"Asimina triloba",
+      "common_name":"Pawpaw",
+      "image":"pawpaw.png",
+      "public":"1",
+      "link":"pawpaw.php"
+    },
+    "Selenicereus undatus":
+      {"sps_name":"Selenicereus undatus",
+      "common_name":"Pitahaya",
+      "image":"pitahaya.png",
+      "public":"1",
+      "link":"pitahaya.php"
+    }
 }
