@@ -3,7 +3,7 @@
 <img class="float-right" src="<?php echo $images_path.'/people/cristina.jpeg' ?>" style="margin-left:20px">
 <h3>Cristina Blanco Ferrer</h3>
 <p>
-  <b>Position:</b> PhD Student<br>
+  <b>Position:</b> Posdoctoral Researcher<br>
   <b>email:</b> cristinaferrer@eelm.csic.es<br>
   <b>Phone:</b> (+34) 952548990<br>
   

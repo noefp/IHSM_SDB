@@ -3,7 +3,7 @@
 <img class="float-right" src="<?php echo $images_path.'/people/gloria.jpeg' ?>" style="margin-left:20px">
 <h3>Gloria López Casado</h3>
 <p>
-  <b>Position:</b> Posdoctoral Research Fellow<br>
+  <b>Position:</b> Posdoctoral Researcher<br>
   <b>email:</b> glorialcasado@eelm.csic.es<br>
   <b>Phone:</b> (+34) 952548990<br>
   

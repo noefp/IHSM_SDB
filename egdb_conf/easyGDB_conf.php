@@ -31,7 +31,7 @@ $header_img = "header_img3.jpg";
 $db_logo = "logo_tb.png";
 
 // Toolbar
-$tb_about = 0;
+$tb_about = 1;
 $tb_downloads = 0;
 $tb_species = 1;
 $tb_search_box = 0;
@@ -48,7 +48,7 @@ $tb_enrichment = 1;
 
 // About
 $ab_citation = 1;
-$ab_labs = 0;
+$ab_labs = 1;
 
 // Expression Atlas
 $expr_menu = 1;
