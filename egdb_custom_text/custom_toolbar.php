@@ -1,4 +1,4 @@
-<a class="navbar-brand" href="/easy_gdb/index.php"> <span style="color:#fff">IHSM</span><span style="color:#9c5">Subtropicals</span></a>
+<a class="navbar-brand" href="/easy_gdb/index.php"><span style="color:#fff">IHSM</span><span style="color:#9c5">Subtropicals</span></a>
 
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/species.php">Species</a></li>
 
@@ -26,6 +26,7 @@
 
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/downloads.php">Downloads</a></li>
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/about.php">About</a></li>
+<li class="nav-item"><a class="nav-link" href="/easy_gdb/help/00_help.php">Help</a></li>
 
 <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Private</a>
