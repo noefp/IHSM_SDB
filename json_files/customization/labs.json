@@ -13,16 +13,6 @@
         }
       },
       {
-        "person_name": "Antonio J. Matas",
-        "position": "Professor",
-        "picture": "matas.jpeg",
-        "link": "https://www.ihsm.uma-csic.es/investigadores/211",
-        "more_info": {
-          "phone": "(+34) 952132178",
-          "email": "antoniojmatas@uma.es"
-        }
-      },
-      {
         "person_name": "Noe Fernandez-Pozo",
         "position": "Tenured Scientist",
         "picture": "noe.jpeg",
@@ -44,7 +34,7 @@
       },
       {
         "person_name": "Juan M. Losada",
-        "position": "Ramon y Cajal Research Fellow",
+        "position": "Tenured Scientist",
         "picture": "losada.jpeg",
         "link": "https://www.ihsm.uma-csic.es/investigadores/297",
         "more_info": {
@@ -53,8 +43,18 @@
         }
       },
       {
+        "person_name": "Antonio J. Matas",
+        "position": "Professor",
+        "picture": "matas.jpeg",
+        "link": "https://www.ihsm.uma-csic.es/investigadores/211",
+        "more_info": {
+          "phone": "(+34) 952132178",
+          "email": "antoniojmatas@uma.es"
+        }
+      },
+      {
         "person_name": "Librada Alcaraz Arco",
-        "position": "Postdoctoral Research Fellow",
+        "position": "Postdoctoral Researcher",
         "picture": "placeholder1.png",
         "link": "librada.php",
         "more_info": {
@@ -64,7 +64,7 @@
       },
       {
         "person_name": "Gloria López Casado",
-        "position": "Postdoctoral Research Fellow",
+        "position": "Postdoctoral Researcher",
         "picture": "gloria.jpeg",
         "link": "gloria.php",
         "more_info": {
@@ -94,7 +94,7 @@
       },
       {
         "person_name": "Cristina Blanco Ferrer",
-        "position": "PhD Student",
+        "position": "Postdoctoral Researcher",
         "picture": "cristina.jpeg",
         "link": "cristina.php",
         "more_info": {
@@ -154,7 +154,7 @@
       },
       {
         "person_name": "Alicia Talavera Júdez",
-        "position": "Postdoctoral Research Fellow",
+        "position": "Postdoctoral Researcher",
         "picture": "talavera.jpeg",
         "link": "https://naturalhistory.si.edu/staff/alicia-talavera-judez",
         "more_info": {
