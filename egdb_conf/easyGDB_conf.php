@@ -31,9 +31,12 @@ $header_img = "header_img3.jpg";
 $db_logo = "logo_tb.png";
 
 // Toolbar
-$tb_about = 1;
+$tb_custom = 1;
+$tb_rm_home = 1;
+
+$tb_about = 0;
 $tb_downloads = 0;
-$tb_species = 1;
+$tb_species = 0;
 $tb_search_box = 0;
 
 $tb_tools = 0;
@@ -43,7 +46,6 @@ $tb_jbrowse = 1;
 $tb_seq_ext = 1;
 $tb_annot_ext = 1;
 $tb_lookup = 1;
-$tb_custom = 1;
 $tb_enrichment = 1;
 
 // About
@@ -52,7 +54,7 @@ $ab_labs = 1;
 
 // Expression Atlas
 $expr_menu = 1;
-$tb_gene_expr = 1;
+$tb_gene_expr = 0;
 
 
 // Expression tools order: 0 for not shown, >=1 to setup the order
