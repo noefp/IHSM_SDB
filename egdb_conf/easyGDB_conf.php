@@ -19,14 +19,14 @@ $annotations_path = "$root_path/annotations";
 $annotation_links_path = "$root_path/$egdb_files_folder/annotations";
 
 //Passport
-$passport_path = "$root_path/passport";
+$passport_path = "$root_path/passport/IHSM_Subtropicals_DB";
 $phenotype_imgs_path = "$images_path/descriptors_imgs";
 
 // Select 1 to store annotations in files or 0 to store annotations in a relational database.
 $file_database = 1;
 
 // header
-$dbTitle = "IHSM Subtropicals DB";
+$dbTitle = "IHSM Subtropicals";
 $header_img = "header_img3.jpg";
 $db_logo = "logo_tb.png";
 
