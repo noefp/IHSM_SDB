@@ -27,7 +27,8 @@ $file_database = 1;
 
 // header
 $dbTitle = "IHSM Subtropicals";
-$header_img = "header_img3.jpg";
+// $header_img = "header_img3.jpg";
+$header_img = 0;
 $db_logo = "logo_tb.png";
 
 // Toolbar
