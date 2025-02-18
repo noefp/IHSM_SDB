@@ -32,7 +32,7 @@
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Private</a>
   <div class="dropdown-menu">
     <a class="dropdown-item" href="/easy_gdb/tools/passport/view_subdirectories.php?dir_name=IHSM_Subtropicals_DB">IHSM Germplasm</a>
-    <!-- <a class="dropdown-item" href="/easy_gdb/tools/passport/passport_search_input.php">Passport and Phenotype Search</a> -->
+    <a class="dropdown-item" href="/easy_gdb/tools/passport/passport_search_input.php">Passport and Phenotype Search</a>
     <a class="dropdown-item" href="/easy_gdb/tools/expression/expression_input_private.php">Private Expression Atlas</a>
   </div>
 </li>
