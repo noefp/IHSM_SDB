@@ -113,16 +113,6 @@
         }
       },
       {
-        "person_name": "Manuela Sanchez-Serrano",
-        "position": "Technician",
-        "picture": "manuela.jpg",
-        "link": "manuela.php",
-        "more_info": {
-          "phone": "(+34) 952134177",
-          "email": "manuela.ss@csic.es"
-        }
-      },
-      {
         "person_name": "Fernando Silva-Reiriz",
         "position": "Technician",
         "picture": "placeholder2.png",
@@ -167,6 +157,12 @@
   "Lab2": {
     "group_name": "Former members",
     "people": [
+      {
+        "person_name": "Manuela Sanchez-Serrano",
+        "position": "Technician",
+        "picture": "manuela.jpg",
+        "link": "manuela.php"
+      },
       {
         "person_name": "Aynhoa Gomez-Olle",
         "position": "Technician",

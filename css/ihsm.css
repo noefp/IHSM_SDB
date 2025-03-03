@@ -1,0 +1,20 @@
+.navbar {
+  background: linear-gradient(60deg, #203d00, #8b4);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .nav-link {
+    color: white !important;
+}
+
+.navbar .dropdown-menu {
+    background-color: #275600;
+}
+
+.navbar .dropdown-menu .dropdown-item {
+    color: white !important;
+}
+
+.navbar .dropdown-item:hover {
+    background-color: #7a3;
+}

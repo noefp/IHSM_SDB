@@ -1,5 +1,9 @@
+<br>
+<img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
+<h1><?php echo $sps_subtitle ?></h1>
+<h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
 <p>
-  <i>Selenicereus undatus</i>, commonly known as Pitahaya or Dragon Fruit, is an epiphytic cactus from the family Cactaceae, native to Central America. It has become an important agricultural crop due to its unique fruit and adaptability to diverse climates.
+  <em>Selenicereus undatus</em>, commonly known as Pitahaya or Dragon Fruit, is an epiphytic cactus from the family Cactaceae, native to Central America. It has become an important agricultural crop due to its unique fruit and adaptability to diverse climates.
 </p>
 
 <ul>
@@ -38,9 +42,8 @@
     The increasing global interest in exotic fruits, combined with the pitahaya's unique aesthetic and nutritional qualities, has contributed to its rising popularity as both a commercial crop and an ornamental garden plant.
   </li>
 </ul>
-
 <br>
 
 <h3>Taxonomy</h3>
-
 <?php include_once("pitahaya_classification_table.php");?>
+<br>

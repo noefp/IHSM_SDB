@@ -18,6 +18,9 @@ $json_files_path = "$root_path/$egdb_files_folder/json_files";
 $annotations_path = "$root_path/annotations";
 $annotation_links_path = "$root_path/$egdb_files_folder/annotations";
 
+// Custom css file
+$custom_css_path = "$egdb_files_folder/css/ihsm.css";
+
 //Passport
 $passport_path = "$root_path/passport/IHSM_Subtropicals_DB";
 $phenotype_imgs_path = "$images_path/descriptors_imgs";

@@ -1,3 +1,7 @@
+<br>
+<img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
+<h1><?php echo $sps_subtitle ?></h1>
+<h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
 <a href="https://www.avocado.uma.es/jbrowse/" class="btn btn-info sps-btn" role="button" target="_blank">Genome Browser</a>
 <a href="https://www.avocado.uma.es/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button" target="_blank">BLAST</a>
 <a href="https://www.avocado.uma.es/easy_gdb/tools/expression/expression_input.php" class="btn btn-info sps-btn" role="button" target="_blank">Expression Atlas</a>
@@ -7,17 +11,20 @@
 <a href="https://www.avocado.uma.es/easy_gdb/downloads.php" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
 <br style="clear:both"/>
 
-<p style="text-align:left;">
-Genomics tools and data available at:
-</p>
-
-<p style="text-align:center;">
-<a href="https://www.avocado.uma.es/easy_gdb/index.php" target="_blank"><img src='<?php echo "$images_path/avobase_banner.png";?>' style="width:60%;"></a>
-</p>
+<div class="row" style="max-width:900px;margin-left:0px">
+  <h5 style="text-align:left;">
+    Genomics tools and data available at:
+    <br><br>
+    <div style="text-align: center;">
+      <a href="https://www.avocado.uma.es/easy_gdb/index.php" target="_blank"><img src='<?php echo "$images_path/avobase_banner.png";?>' style="width:60%;"></a>
+    </div>
+  </h5>
+</div>
+<br>
 
 
 <p>
-  <i>Persea americana</i> (avocado) is a diploid fruit species (2n=24) native to Mexico and Central America. It belongs to the Lauraceae family, which includes 50 genera and about 2,200 species, predominantly found in tropical and subtropical regions.
+  <em>Persea americana</em> (avocado) is a diploid fruit species (2n=24) native to Mexico and Central America. It belongs to the Lauraceae family, which includes 50 genera and about 2,200 species, predominantly found in tropical and subtropical regions.
 </p>
 
 <ul>
@@ -26,13 +33,13 @@ Genomics tools and data available at:
     Avocado is classified into three botanical types based on origin and cultivation conditions:
     <ul>
       <li>
-        <i>P. americana</i> cv. drymifolia (Mexican): Adapted to colder, mountainous regions.
+        <em>P. americana</em> cv. drymifolia (Mexican): Adapted to colder, mountainous regions.
       </li>
       <li>
-        <i>P. americana</i> cv. guatemalensis (Guatemalan): Suited for colder climates, originating from high altitudes in Central America.  
+        <em>P. americana</em> cv. guatemalensis (Guatemalan): Suited for colder climates, originating from high altitudes in Central America.  
       </li>
       <li>
-        <i>P. americana</i> cv. american (Antillan): Prefers warmer, tropical lowlands.
+        <em>P. americana</em> cv. american (Antillan): Prefers warmer, tropical lowlands.
       </li>
     </ul>
   </li>
@@ -61,71 +68,60 @@ Genomics tools and data available at:
 <br>
 
 <h3>Documents</h3>
-
 <div class="row" style="width:900px;margin-left:0px">
-  
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/Persea%20americana/PDFs/Descriptors avocado IPGRI 1995.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Descriptors for avocado </a>
+        <a href="/downloads/Persea%20americana/PDFs/Descriptors avocado IPGRI 1995.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Descriptors for avocado </a>
       </div>
     </div>
   </div>
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/Persea%20americana/PDFs/Guia_gestion_integrada_plagas_aguacate.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Guía de gestión integrada de plagas del aguacate </a>
+        <a href="/downloads/Persea%20americana/PDFs/Guia_gestion_integrada_plagas_aguacate.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Guía de gestión integrada de plagas del aguacate </a>
       </div>
     </div>
   </div>
 </div>
-  
+
 <div class="row" style="width:900px;margin-left:0px">
-  
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/Persea%20americana/PDFs/Manual_calidad_aguacate.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Manual de calidad del aguacate </a>
+        <a href="/downloads/Persea%20americana/PDFs/Manual_calidad_aguacate.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Manual de calidad del aguacate </a>
       </div>
     </div>
   </div>
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/Persea%20americana/PDFs/Manual_de_manejo_practico_del_cultivo_del_aguacate.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Manual de manejo práctico del cultivo de aguacate </a>
+        <a href="/downloads/Persea%20americana/PDFs/Manual_de_manejo_practico_del_cultivo_del_aguacate.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Manual de manejo práctico del cultivo de aguacate </a>
       </div>
     </div>
   </div>
-  
-</div>
-  
-<div class="row" style="width:900px;margin-left:0px">
-  
-  <div class="col" style="padding:0px">
-    <div class="card">
-      <div class="card-body">
-        <a href="/downloads/Persea%20americana/PDFs/Avocado_valor_nutricional_aguacate_FEN.org.es.pdf"><i class='far fa-file-pdf' style='font-size:30px;color:red'></i> Valor nutricional aguacate Fen.org.es </a>
-      </div>
-    </div>
-  </div>
-  
 </div>
 
-
-<br>
+<div class="row" style="width:900px;margin-left:0px">
+  <div class="col" style="padding:0px">
+    <div class="card">
+      <div class="card-body">
+        <a href="/downloads/Persea%20americana/PDFs/Avocado_valor_nutricional_aguacate_FEN.org.es.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Valor nutricional aguacate Fen.org.es </a>
+      </div>
+    </div>
+  </div>
+</div>
 <br>
 
 
 <h3>Genome assembly stats</h3>
-
 <p>
-  Summary of the <i>Persea americana</i> cv. Hass draft genome assembly, from <a href="https://www.nature.com/articles/s41598-019-56526-4" target="_blank"> Talavera et al., 2019</a>.
+  Summary of the <em>Persea americana</em> cv. Hass draft genome assembly, from <a href="https://www.nature.com/articles/s41598-019-56526-4" target="_blank"> Talavera et al., 2019</a>.
 </p>
 
 <?php include_once("avocado_genome_table.php");?> 
-
 <br>
 
 <h3>Taxonomy</h3>
-
 <?php include_once("avocado_classification_table.php");?>
+<br>

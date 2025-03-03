@@ -1,42 +1,42 @@
 {
   "Annona cherimola":
-    {"sps_name":"Annona cherimola",
-      "common_name":"Cherimoya",
+    {"card_title":"Annona cherimola",
+      "card_subtitle":"Cherimoya",
       "image":"cherimoya.png",
       "public":"1",
       "link":"cherimoya.php"
     },
     "Mangifera indica":
-      {"sps_name":"Mangifera indica",
-        "common_name":"Mango",
+      {"card_title":"Mangifera indica",
+        "card_subtitle":"Mango",
         "image":"mango.png",
         "public":"1",
         "link":"mango.php"
       },
     "Persea americana":
-      {"sps_name":"Persea americana",
-        "common_name":"Avocado",
+      {"card_title":"Persea americana",
+        "card_subtitle":"Avocado",
         "image":"avocado.png",
         "public":"1",
         "link":"avocado.php"
       },
     "Averrhoa carambola":
-      {"sps_name":"Averrhoa carambola",
-      "common_name":"Carambola",
+      {"card_title":"Averrhoa carambola",
+      "card_subtitle":"Carambola",
       "image":"carambola.png",
       "public":"1",
       "link":"carambola.php"
     },
     "Asimina triloba":
-      {"sps_name":"Asimina triloba",
-      "common_name":"Pawpaw",
+      {"card_title":"Asimina triloba",
+      "card_subtitle":"Pawpaw",
       "image":"pawpaw.png",
       "public":"1",
       "link":"pawpaw.php"
     },
     "Selenicereus undatus":
-      {"sps_name":"Selenicereus undatus",
-      "common_name":"Pitahaya",
+      {"card_title":"Selenicereus undatus",
+      "card_subtitle":"Pitahaya",
       "image":"pitahaya.png",
       "public":"1",
       "link":"pitahaya.php"

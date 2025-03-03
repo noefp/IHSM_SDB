@@ -1,5 +1,9 @@
+<br>
+<img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
+<h1><?php echo $sps_subtitle ?></h1>
+<h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
 <p>
-  The pawpaw (<i>Asimina triloba</i> Dunal) is a diploid species (2n=18) belonging to the family Annonaceae, which is part of the Magnoliales order in the magnoliid clade. Unlike most members of the Annonaceae, which thrive in tropical and subtropical climates, <i>Asimina</i> is adapted to cold climates and is native to North America.
+  The pawpaw (<em>Asimina triloba</em> Dunal) is a diploid species (2n=18) belonging to the family Annonaceae, which is part of the Magnoliales order in the magnoliid clade. Unlike most members of the Annonaceae, which thrive in tropical and subtropical climates, <em>Asimina</em> is adapted to cold climates and is native to North America.
 </p>
 
 <ul>
@@ -37,14 +41,12 @@
 <br>
 
 <h3>Taxonomy</h3>
-
 <?php include_once("pawpaw_classification_table.php");?>
-
 <br>
 
 <h3>Links of interest</h3>
-
 <ul>
   <li><a href="https://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.7383" target="_blank">Pawpaw Datasheet at CABI</a></li>
 </ul>
+<br>
 

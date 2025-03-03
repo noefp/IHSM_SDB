@@ -1,3 +1,7 @@
+<br>
+<img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
+<h1><?php echo $sps_subtitle ?></h1>
+<h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
 <a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button">BLAST</a>
 <a href="/easy_gdb/tools/fasta_download.php" class="btn btn-info sps-btn" role="button">Sequence Extraction</a>
 <a href="/easy_gdb/tools/annot_input_list.php" class="btn btn-info sps-btn" role="button">Annotation Extraction</a>
@@ -5,7 +9,7 @@
 <br style="clear:both"/>
 
 <p>
-  <i>Averrhoa carambola</i> (carambola or starfruit) is a tropical fruit species native to Southeast Asia and belongs to the family Oxalidaceae. It is valued for its distinctive star-shaped cross-section, sweet-tart flavor, and high juice content, making it a popular fruit in tropical regions and beyond.
+  <em>Averrhoa carambola</em> (carambola or starfruit) is a tropical fruit species native to Southeast Asia and belongs to the family Oxalidaceae. It is valued for its distinctive star-shaped cross-section, sweet-tart flavor, and high juice content, making it a popular fruit in tropical regions and beyond.
 </p>
 
 <ul>
@@ -34,27 +38,21 @@
     Carambola is a significant commodity in tropical fruit markets. Its export value grew by 2.3% annually from 1992 to 2002, with Malaysia ranking third in fruit export value during this period. The increasing global demand for tropical juices has further boosted its economic significance.
   </li>
 </ul>
-
-
 <br>
 
 
 <h3>Genome assembly stats</h3>
-
 <p>
-	<i>A. carambola</i> genome published by <a href="https://doi.org/10.1038/s41438-020-0306-4" target="_blank">Fan et al. 2020</a>.
+	<em>A. carambola</em> genome published by <a href="https://doi.org/10.1038/s41438-020-0306-4" target="_blank">Fan et al. 2020</a>.
 </p>
-
 <?php include_once("carambola_genome_table_Fan.php");?>
 
 <p>
-  <i>A. carambola</i> genome published by <a href="https://doi.org/10.1038/s41438-020-0307-3" target="_blank">Wu et al. 2020</a>.
+  <em>A. carambola</em> genome published by <a href="https://doi.org/10.1038/s41438-020-0307-3" target="_blank">Wu et al. 2020</a>.
 </p>
-
 <?php include_once("carambola_genome_table_Wu.php");?> 
-
 <br>
 
 <h3>Taxonomy</h3>
-
 <?php include_once("carambola_classification_table.php");?>
+<br>
