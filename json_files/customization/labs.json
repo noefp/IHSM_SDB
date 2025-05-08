@@ -113,6 +113,16 @@
         }
       },
       {
+        "person_name": "Amanda Bullones",
+        "position": "PhD Student",
+        "picture": "placeholder1.png",
+        "link": "amanda.php",
+        "more_info": {
+          "phone": "(+34) 952134177",
+          "email": "amanda.bullones@csic.es"
+        }
+      },
+      {
         "person_name": "Fernando Silva-Reiriz",
         "position": "Technician",
         "picture": "fernando.jpeg",
