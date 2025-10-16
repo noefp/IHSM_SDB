@@ -52,6 +52,11 @@ $tb_annot_ext = 1;
 $tb_lookup = 1;
 $tb_enrichment = 1;
 
+$tb_help = 0;
+$tb_more = 0;
+$tb_private = 0;
+$tb_passport = 0;
+
 // About
 $ab_citation = 1;
 $ab_labs = 1;
