@@ -1,12 +1,14 @@
 
 
-<img class="float-right" src="<?php echo $images_path.'/people/fernando.jpeg' ?>" style="margin-left:20px">
+<img class="float-right" src="<?php echo $images_path.'/people/fernando.png' ?>" style="margin-left:20px">
 <h3>Fernando Silva Reiriz</h3>
 <p>
   <b>Position:</b> Technician<br>
   <b>email:</b> fernando-silva@ihsm.uma-csic.es<br>
   <b>Phone:</b>(+34) 952134177<br>
 
+  <a href="https://orcid.org/0009-0008-6262-2717" target="_blank"><img src="<?php echo $images_path.'/logos/orcid.ico' ?>" style="height:16px; margin-bottom: 5px;"> Orcid ID</a>
+  &bull;
   <a href="https://twitter.com/IHSM_Bioinfo" target="_blank"><img src="<?php echo $images_path.'/logos/twitter_icon.png' ?>" style="height:16px; margin-bottom: 5px;"> Twitter</a>
   <br>
 </p>
