@@ -105,8 +105,8 @@
       {
         "person_name": "María García Lezama",
         "position": "PhD Student",
-        "picture": "placeholder1.png",
-        "link": "",
+        "picture": "maria.png",
+        "link": "maria.php",
         "more_info": {
           "phone": "(+34) 952548990",
           "email": "mariagl@ihsm.uma-csic.es"
@@ -130,36 +130,6 @@
         "more_info": {
           "phone": "(+34) 952134177",
           "email": "fernando.silva@ihsm.uma-csic.es"
-        }
-      },
-      {
-        "person_name": "Yolanda Verdún Domínguez",
-        "position": "Technician",
-        "picture": "placeholder1.png",
-        "link": "",
-        "more_info": {
-          "phone": "(+34) 952548990",
-          "email": "yverdun@eelm.csic.es"
-        }
-      },
-      {
-        "person_name": "José Jorge González Fernández",
-        "position": "Technician",
-        "picture": "placeholder2.png",
-        "link": "",
-        "more_info": {
-          "phone": "(+34) 952548990",
-          "email": "jorgegonzalez-fernandez@eelm.csic.es"
-        }
-      },
-      {
-        "person_name": "Ruth Aranda Nebot",
-        "position": "Technician",
-        "picture": "placeholder1.png",
-        "link": "",
-        "more_info": {
-          "phone": "(+34) 952548990",
-          "email": "rutharanda@eelm.csic.es"
         }
       }
     ]

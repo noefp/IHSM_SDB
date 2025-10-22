@@ -13,7 +13,7 @@
   &bull;
   <a href="https://www.researchgate.net/profile/Enrique-Lopez-Gomez" target="_blank"><img src="<?php echo $images_path.'/logos/Researchgate_icon.png' ?>" style="height:16px; margin-bottom: 5px;"> Research Gate</a>
   &bull;
-  <a href="https://twitter.com/IHSM_Bioinfo" target="_blank"><img src="<?php echo $images_path.'/logos/twitter_icon.png' ?>" style="height:16px; margin-bottom: 5px;"> Twitter</a>
+  <a href="https://www.linkedin.com/in/enrique-lopez-gomez-elg" target="_blank"><img src="<?php echo $images_path.'/logos/linkedin_logo.png' ?>" style="height:16px; margin-bottom: 5px;"> LinkedIn</a>
   <br>
 </p>
 <p>
