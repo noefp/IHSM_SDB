@@ -78,5 +78,18 @@
           "Central_Axis":"fdj_ec.jpeg",
           "Peel":"fdj_peel.jpeg"
         }
+    },
+  "Asimina_triloba_reproductive_incompatibility.txt":
+    {
+      "description":"pawpaw.php",
+      "images":
+        {
+          "CC4":"CC_4DAP.jpg",
+          "AI4":"AI_4DAP.jpg",
+          "CC8":"CC_8DAP.jpg",
+          "AI8":"AI_8DAP.jpg",
+          "CC15":"CC_15DAP.jpg",
+          "AI15":"AI_15DAP.jpg"
+        }
     }
 }
