@@ -16,7 +16,7 @@
         "person_name": "Noe Fernandez-Pozo",
         "position": "Tenured Scientist",
         "picture": "noe.jpeg",
-        "link": "noe.php",
+        "link": "https://www.ihsm.uma-csic.es/investigadores/1031",
         "more_info": {
           "phone": "(+34) 952132150",
           "email": "noe.fernandez.pozo@csic.es"
@@ -56,17 +56,17 @@
         "person_name": "Alicia Talavera Júdez",
         "position": "Postdoctoral Researcher",
         "picture": "talavera.jpeg",
-        "link": "https://naturalhistory.si.edu/staff/alicia-talavera-judez",
+        "link": "alicia.php",
         "more_info": {
           "phone": "(+34) 952134177",
-          "email": "alicia@ihsm.uma-csic.es"
+          "email": " a.talavera@csic.es"
         }
       },
       {
         "person_name": "Librada Alcaraz Arco",
         "position": "Postdoctoral Researcher",
-        "picture": "placeholder1.png",
-        "link": "librada.php",
+        "picture": "librada.jpg",
+        "link": "",
         "more_info": {
           "phone": "(+34) 952548990",
           "email": "librada@eelm.csic.es"
@@ -76,7 +76,7 @@
         "person_name": "Gloria López Casado",
         "position": "Postdoctoral Researcher",
         "picture": "gloria.jpeg",
-        "link": "gloria.php",
+        "link": "",
         "more_info": {
           "phone": "(+34) 952548990",
           "email": "glorialcasado@eelm.csic.es"
@@ -86,7 +86,7 @@
         "person_name": "Cristina Blanco Ferrer",
         "position": "Postdoctoral Researcher",
         "picture": "cristina.jpeg",
-        "link": "cristina.php",
+        "link": "",
         "more_info": {
           "phone": "(+34) 952548990",
           "email": "cristinaferrer@eelm.csic.es"
@@ -105,7 +105,7 @@
       {
         "person_name": "María García Lezama",
         "position": "PhD Student",
-        "picture": "placeholder1.png",
+        "picture": "maria.png",
         "link": "maria.php",
         "more_info": {
           "phone": "(+34) 952548990",
@@ -125,41 +125,11 @@
       {
         "person_name": "Fernando Silva-Reiriz",
         "position": "Technician",
-        "picture": "fernando.jpeg",
+        "picture": "fernando.png",
         "link": "fernando.php",
         "more_info": {
           "phone": "(+34) 952134177",
           "email": "fernando.silva@ihsm.uma-csic.es"
-        }
-      },
-      {
-        "person_name": "Yolanda Verdún Domínguez",
-        "position": "Technician",
-        "picture": "placeholder1.png",
-        "link": "yolanda.php",
-        "more_info": {
-          "phone": "(+34) 952548990",
-          "email": "yverdun@eelm.csic.es"
-        }
-      },
-      {
-        "person_name": "José Jorge González Fernández",
-        "position": "Technician",
-        "picture": "placeholder2.png",
-        "link": "jorge.php",
-        "more_info": {
-          "phone": "(+34) 952548990",
-          "email": "jorgegonzalez-fernandez@eelm.csic.es"
-        }
-      },
-      {
-        "person_name": "Ruth Aranda Nebot",
-        "position": "Technician",
-        "picture": "placeholder1.png",
-        "link": "ruth.php",
-        "more_info": {
-          "phone": "(+34) 952548990",
-          "email": "rutharanda@eelm.csic.es"
         }
       }
     ]
