@@ -22,7 +22,7 @@
 <img class='rounded' src='<?php echo "$images_path/expr/INO_T8_PS.jpg";?>' width="250px" alt='T8 PS'>
 
 <p>
-	Microscope images of the immature seed sections (8 DAP) for both AG and T genotypes.
+	Microscope images of the immature seed sections (8 DAP) for both AG (A) and T (D) genotypes.
 </p>
 
 <p>
