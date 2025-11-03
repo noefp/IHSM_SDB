@@ -64,6 +64,11 @@
            "SF":"sf0.jpeg"
         }
     },
+  "06 Annona Outer Integument.txt":
+    {"link":"",
+      "description":"06 Annona Outer Integument.php",
+      "annotation_file":"Annona/Annona_cherimola_Annotations.txt"
+    },
   "Annona FDJ.txt":
     {"link":"",
       "annotation_file":"Annona/Annona_cherimola_Annotations.txt",
