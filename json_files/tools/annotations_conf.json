@@ -1,0 +1,19 @@
+{
+  "Annona_cherimola_Annotations.txt": {
+    "displayed_name":"<i>Annona cherimola</i> v102",
+    "description":"",
+    "jbrowse":"/jbrowse/?data=data%2Fanche102&loc={gene_name}&tracks=DNA%2Canche102_genes",
+    "gene_blast_dbs": ["Annona_cherimola_CDS_v102.fasta","Annona_cherimola_proteins_v102.fasta","Annona_cherimola_transcripts_v102.fasta"]
+  },
+  "Cacao_Criollo_Annotations.txt": {
+    "displayed_name":"<i>Cacao Criollo</i> v2",
+    "description":"",
+    "jbrowse":"https://jbrowse.southgreen.fr/index.html?data=theobroma_cacao_v2&tracks=DNA%2CConsensus%20Gene%20model&loc={gene_name}",
+    "gene_blast_dbs": ["Cacao_Criollo_Protein.fasta","Cacao_Criollo_CDS.fasta"]
+  },
+  "Cacao_Matina_Annotations.txt": {
+    "displayed_name":"<i>Cacao Matina</i> v2",
+    "description":"",
+    "gene_blast_dbs": ["Cacao_Matina_2_protein.fasta","Cacao_Matina_2_CDS.fasta"]
+  }
+}
