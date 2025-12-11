@@ -40,5 +40,12 @@
       "image":"pitahaya.png",
       "public":"1",
       "link":"pitahaya.php"
+    },
+    "Theobroma cacao":
+      {"card_title":"Theobroma cacao",
+      "card_subtitle":"Cacao",
+      "image":"cacao.jpg",
+      "public":"1",
+      "link":"cacao.php"
     }
 }
