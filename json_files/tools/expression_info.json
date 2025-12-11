@@ -96,5 +96,27 @@
           "CC15":"CC_15DAP.jpg",
           "AI15":"AI_15DAP.jpg"
         }
+    },
+    "T.cacao_Phytophthora_infection.txt":
+    {"link":"",
+      "annotation_file":"Cacao/Cacao_Matina.txt",
+      "description":"T.cacao_Phytophthora_infection.php",
+      "images":
+        {
+          "WFT_C":"cacao_c.png",
+          "WFT_P":"WFT.jpg",
+          "Pound7_C":"cacao_c.png",
+          "Pound7_P":"pound_7.jpg",
+          "Sca6_C":"cacao_c.png",
+          "Sca6_P":"Sca_6.jpg",
+          "CCN51_C":"cacao_c.png",
+          "CCN51_P":"CCN_51.jpg",
+          "Spa9_C":"cacao_c.png",
+          "Spa9_P":"Spa_9.jpg",
+          "Gu133_C":"cacao_c.png",
+          "Gu133_P":"Gu_133.jpg",
+          "ICS1_C":"cacao_c.png",
+          "ICS1_P":"ICS_1.jpg"
+        }
     }
 }
