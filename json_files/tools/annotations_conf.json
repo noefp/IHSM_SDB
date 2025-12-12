@@ -14,6 +14,6 @@
   "Cacao_Matina_Annotations.txt": {
     "displayed_name":"<i>Cacao Matina</i> v2",
     "description":"",
-    "gene_blast_dbs": ["Cacao_Matina_2_protein.fasta","Cacao_Matina_2_CDS.fasta"]
+    "gene_blast_dbs": ["Cacao_Matina_v2_protein.fasta","Cacao_Matina_v2_CDS.fasta"]
   }
 }

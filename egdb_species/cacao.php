@@ -6,8 +6,8 @@
 <a href="/easy_gdb/tools/fasta_download.php" class="btn btn-info sps-btn" role="button">Sequence Extraction</a>
 <a href="/easy_gdb/tools/annot_input_list.php" class="btn btn-info sps-btn" role="button">Annotation Extraction</a>
 <a href="/easy_gdb/downloads.php#cacao" class="btn btn-info sps-btn" role="button">Downloads</a>
-<a href="https://cocoa-genome-hub.southgreen.fr/" class="btn btn-info sps-btn" role="button" target="_blank">Cocoa Genome</a>
-<a href="https://www.icgd.reading.ac.uk/" class="btn btn-info sps-btn" role="button" target="_blank">ICGD</a>
+<a href="https://cocoa-genome-hub.southgreen.fr/" class="btn btn-info sps-btn" role="button">Cocoa Genome Hub</a>
+<a href="https://www.icgd.reading.ac.uk/" class="btn btn-info sps-btn" role="button">ICGD</a>
 
 <br style="clear:both"/>
 
@@ -62,14 +62,7 @@
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/cacao/Descriptores para cacao.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Descriptores  </a>
-      </div>
-    </div>
-  </div>
-  <div class="col" style="padding:0px">
-    <div class="card">
-      <div class="card-body">
-        <a href="/downloads/cacao/7_Descriptores_Morfologicos_en_cacao.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Otros descriptores </a>
+        <a href="/downloads/cacao/Descriptores para cacao.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em>Descriptors by the Ministry of agriculture development of Peru</a>
       </div>
     </div>
   </div>
@@ -79,7 +72,7 @@
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/cacao/Cacao RNA seq Pod.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Atlas data </a>
+        <a href="/downloads/cacao/Cacao RNA seq Pod.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em>Cacao pod transcriptome profiling of seven genotypes for post-penetration resistance to Phytophthora palmivora (Atlas data)</a>
       </div>
     </div>
   </div>
