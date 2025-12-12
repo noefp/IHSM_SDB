@@ -1,6 +1,6 @@
 {
-  "TAIR10":"http://www.arabidopsis.org/servlets/TairObject?type=locus&name=query_id",
-  "Araport11":"http://www.arabidopsis.org/servlets/TairObject?type=locus&name=query_id",
+  "TAIR10":"https://phytozome-next.jgi.doe.gov/report/gene/Athaliana_TAIR10/query_id",
+  "Araport11":"https://phytozome-next.jgi.doe.gov/report/gene/Athaliana_Araport11/query_id",
   "SwissProt":"http://www.uniprot.org/uniprot/query_id",
   "TrEMBL":"http://www.uniprot.org/uniprot/query_id",
   "InterPro":"https://www.ebi.ac.uk/interpro/entry/InterPro/query_id",

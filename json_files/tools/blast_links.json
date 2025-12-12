@@ -8,7 +8,11 @@
   "Theobroma_cacaoV2_annot_protein.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Cacao_Criollo_Annotations.txt",
   "Cacao_Matina_2_CDS.fasta":"/jbrowse/?data=data%2FCacao_Matina&loc={chr}%3A{start}..{end}",
   "Cacao_Matina_2_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Cacao_Matina_Annotations.txt",
-  "Cacao_Matina_2_protein.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Cacao_Matina_Annotations.txt"
+  "Cacao_Matina_2_protein.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Cacao_Matina_Annotations.txt",
+  "carambola_genome.fasta":"https://150.214.58.174:9443/jbrowse/index.html?data=data/carambola",
+  "carambola_vR1_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Averrhoa_carambola/averrhoa_carambola_annotations.txt",
+  "carambola_vR1_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Averrhoa_carambola/averrhoa_carambola_annotations.txt",
+  "carambola_vR1_RNA.fasta":"/easy_gdb/gene.php?name={subject}&annot=Averrhoa_carambola/averrhoa_carambola_annotations.txt"
 }
 
 
