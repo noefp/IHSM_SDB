@@ -3,6 +3,7 @@
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
 <a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button">BLAST</a>
+<a href="/easy_gdb/tools/expression/expression_input.php" class="btn btn-info sps-btn" role="button">Expression Atlas</a>
 <a href="/easy_gdb/tools/fasta_download.php" class="btn btn-info sps-btn" role="button">Sequence Extraction</a>
 <a href="/easy_gdb/tools/annot_input_list.php" class="btn btn-info sps-btn" role="button">Annotation Extraction</a>
 <a href="/easy_gdb/downloads.php#cacao" class="btn btn-info sps-btn" role="button">Downloads</a>
