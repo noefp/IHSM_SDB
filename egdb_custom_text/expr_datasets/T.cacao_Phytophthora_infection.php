@@ -31,7 +31,7 @@
     ?>
   </tbody>
 </table>
-
+<br>
 <h4>Experimental Conditions (3 replicates):</h4>
 <ul>
   <li><strong>Control Group:</strong> Healthy pod tissues, non-infected.</li>

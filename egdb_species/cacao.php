@@ -2,13 +2,14 @@
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
+<a href="https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Criollo" class="btn btn-info sps-btn" role="button">Genome Browser</a>
 <a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button">BLAST</a>
 <a href="/easy_gdb/tools/expression/expression_input.php" class="btn btn-info sps-btn" role="button">Expression Atlas</a>
 <a href="/easy_gdb/tools/fasta_download.php" class="btn btn-info sps-btn" role="button">Sequence Extraction</a>
 <a href="/easy_gdb/tools/annot_input_list.php" class="btn btn-info sps-btn" role="button">Annotation Extraction</a>
 <a href="/easy_gdb/downloads.php#cacao" class="btn btn-info sps-btn" role="button">Downloads</a>
-<a href="https://cocoa-genome-hub.southgreen.fr/" class="btn btn-info sps-btn" role="button">Cocoa Genome Hub</a>
-<a href="https://www.icgd.reading.ac.uk/" class="btn btn-info sps-btn" role="button">ICGD</a>
+<a href="https://cocoa-genome-hub.southgreen.fr/" class="btn btn-info sps-btn" role="button" target="_blank" rel="noopener noreferrer">Cocoa Genome Hub</a>
+<a href="https://www.icgd.reading.ac.uk/" class="btn btn-info sps-btn" role="button" target="_blank" rel="noopener noreferrer">ICGD</a>
 
 <br style="clear:both"/>
 
@@ -84,7 +85,7 @@
 
 <h3>Genome assembly stats</h3>
 <p>
-  Summary of the <em>Theobroma cacao</em> cv. Matina draft genome assembly, from <a href="https://doi.org/10.1186/gb-2013-14-6-r53" target="_blank"> Motamayor et al., 2013</a> and cv. Criollo, from <a href="https://doi.org/10.1186/s12864-017-4120-9" target="_blank"> Argoutra et al., 2017</a>.
+  Summary of the <em>Theobroma cacao</em> cv. Matina draft genome assembly, from <a href="https://doi.org/10.1186/gb-2013-14-6-r53" target="_blank"> Motamayor et al., 2013</a> and cv. Criollo, from <a href="https://doi.org/10.1186/s12864-017-4120-9" target="_blank"> Argout et al., 2017</a>.
 </p>
 
 <?php include_once("cacao_genome_table.php");?> 
