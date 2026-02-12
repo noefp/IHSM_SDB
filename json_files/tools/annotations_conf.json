@@ -16,5 +16,17 @@
     "description":"",
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Matina&loc={gene_name}&tracks=DNA%2CCacao_Matina",
     "gene_blast_dbs": ["Cacao_Matina_v2_protein.fasta","Cacao_Matina_v2_CDS.fasta"]
+  },
+  "averrhoa_carambola_annotations.txt": {
+    "displayed_name":"<i>Averrhoa carambola</i>",
+    "description":"",
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Fcarambola&loc={gene_name}",
+    "gene_blast_dbs": ["carambola_vR1_CDS.fasta","carambola_vR1_proteins.fasta", "carambola_vR1_transcripts.fasta"]
+  },
+  "dimocarpus_longan_annotations.txt": {
+    "displayed_name":"<i>Dimocarpus longan</i>",
+    "description":"",
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Flongan&loc={gene_name}",
+    "gene_blast_dbs": ["longan_CDS.fasta","longan_proteins.fasta", "longan_transcripts.fasta"]
   }
 }

@@ -2,11 +2,11 @@
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
-<a href="https://150.214.58.174:9443/jbrowse/?data=data/carambola" class="btn btn-info sps-btn" role="button">Genome Browser</a>
+<a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/carambola" class="btn btn-info sps-btn" role="button">Genome Browser</a>
 <a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button">BLAST</a>
 <a href="/easy_gdb/tools/fasta_download.php" class="btn btn-info sps-btn" role="button">Sequence Extraction</a>
 <a href="/easy_gdb/tools/annot_input_list.php" class="btn btn-info sps-btn" role="button">Annotation Extraction</a>
-<a href="https://150.214.58.174:9443/easy_gdb/downloads.php" class="btn btn-info sps-btn" role="button">Downloads</a>
+<a href="https://ihsm-bionas.uma.es/easy_gdb/downloads.php" class="btn btn-info sps-btn" role="button">Downloads</a>
 <br style="clear:both"/>
 
 <p>
