@@ -46,8 +46,8 @@
   There are several sequenced genomes available of starfruit:
 </p>
 <ul>
-  <li>assembly by <a href=https://doi.org/10.1038/s41438-020-0307-3>Wu et al., 2020</a>. Available at the <a href="https://ngdc.cncb.ac.cn/gwh/Assembly/946/show" target="_blank">Genome Warehouse</a>. This is the reference genome for this section.</li>
-  <li>assembly by <a href=https://doi.org/10.1038/s41438-020-0306-4>Fan et al., 2020</a>.</li>
+  <li>assembly by <a href=https://doi.org/10.1038/s41438-020-0307-3>Wu et al., 2020</a>. Available at the <a href="https://ngdc.cncb.ac.cn/gwh/Assembly/946/show" target="_blank">Genome Warehouse</a>.</li>
+  <li>assembly by <a href=https://doi.org/10.1038/s41438-020-0306-4>Fan et al., 2020</a>. Available at the <a href="https://db.cngb.org/data_resources/assembly/CNA0002506" target="_blank">China National GeneBank database.</a> </li>
 </ul>
 <br>
 
@@ -56,7 +56,12 @@
   Overall statistics on <em>A. carambola</em> genome assemblies published by <a href="https://doi.org/10.1038/s41438-020-0307-3" target="_blank">Wu et al. 2020</a> (left) and by <a href="https://doi.org/10.1038/s41438-020-0306-4" target="_blank">Fan et al. 2020</a> (right).
 </p>
 <?php include_once("carambola_genome_table.php");?>
+* Reference genome for IHSM Subtropicals
 <br>
+<sup>a</sup> No genome available
+<br>
+<sup>b</sup> BUSCO based on embryophyta_odb12 dataset
+<br><br>
 
 <h3>Taxonomy</h3>
 <?php include_once("carambola_classification_table.php");?>
