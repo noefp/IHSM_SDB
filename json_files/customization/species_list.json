@@ -54,5 +54,13 @@
       "image":"longan.png",
       "public":"1",
       "link":"longan.php"
+    },
+    "Eriobotrya japonica":
+    {
+      "card_title":"Eriobotrya japonica",
+      "card_subtitle":"Loquat",
+      "image":"loquat.png",
+      "public":"1",
+      "link":"loquat.php"
     }
 }
