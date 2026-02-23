@@ -13,8 +13,17 @@
 
 .navbar .dropdown-menu .dropdown-item {
     color: white !important;
+    background-color: #275600;
 }
 
 .navbar .dropdown-item:hover {
     background-color: #7a3;
+}
+
+.btn-hover:hover {
+    background-color: #117A8B !important;
+}
+
+.btn-hover {
+    background-color: #17A2B8 !important;
 }
