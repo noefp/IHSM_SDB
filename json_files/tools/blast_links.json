@@ -9,14 +9,18 @@
   "Cacao_Matina_v2_Genomic.fasta":"https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Matina&loc={gene_name}&tracks=DNA%2CCacao_Matina",
   "Cacao_Matina_v2_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Cacao_Matina.txt",
   "Cacao_Matina_v2_protein.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Cacao_Matina.txt",
-  "carambola_genome.fasta":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/carambola",
-  "carambola_vR1_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Averrhoa_carambola/averrhoa_carambola_annotations.txt",
-  "carambola_vR1_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Averrhoa_carambola/averrhoa_carambola_annotations.txt",
-  "carambola_vR1_transcripts.fasta":"/easy_gdb/gene.php?name={subject}&annot=Averrhoa_carambola/averrhoa_carambola_annotations.txt",
-  "longan_genome.fasta":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/longan",
-  "longan_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Dimocarpus_longan/dimocarpus_longan_annotations.txt",
-  "longan_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Dimocarpus_longan/dimocarpus_longan_annotations.txt",
-  "longan_transcripts.fasta":"/easy_gdb/gene.php?name={subject}&annot=Dimocarpus_longan/dimocarpus_longan_annotations.txt"
+  "carambola_genome.fasta":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/carambola&tracks=DNA%2Caveca_gene_models",
+  "carambola_vR1_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Averrhoa_carambola/Averrhoa_carambola_annotations.txt",
+  "carambola_vR1_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Averrhoa_carambola/Averrhoa_carambola_annotations.txt",
+  "carambola_vR1_transcripts.fasta":"/easy_gdb/gene.php?name={subject}&annot=Averrhoa_carambola/Averrhoa_carambola_annotations.txt",
+  "longan_genome.fasta":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/longan&tracks=DNA%2Cdimlo_gene_models",
+  "longan_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Dimocarpus_longan/Dimocarpus_longan_annotations.txt",
+  "longan_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Dimocarpus_longan/Dimocarpus_longan_annotations.txt",
+  "longan_transcripts.fasta":"/easy_gdb/gene.php?name={subject}&annot=Dimocarpus_longan/Dimocarpus_longan_annotations.txt",
+  "loquat_genome.fasta":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/loquat&tracks=DNA%2Cerija_gene_models",
+  "loquat_vR1_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Eriobotrya_japonica/Eriobotrya_japonica_annotations.txt",
+  "loquat_vR1_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Eriobotrya_japonica/Eriobotrya_japonica_annotations.txt",
+  "loquat_vR1_transcripts.fasta":"/easy_gdb/gene.php?name={subject}&annot=Eriobotrya_japonica/Eriobotrya_japonica_annotations.txt"
 }
 
 
