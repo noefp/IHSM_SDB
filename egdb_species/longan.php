@@ -8,8 +8,8 @@
     Genome Browser
   </a>
   <div class="dropdown-menu bg-info">
-    <a class="dropdown-item text-white btn-hover" href="https://www.sapindaceae.com/jbrowse/index.html?data=longanData">Shi Xia <i class="fas fa-external-link-alt"></i></a>
-    <a class="dropdown-item text-white btn-hover" href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/longan">Ji Dan Ben</a>
+    <a class="dropdown-item text-white btn-hover" href="https://www.sapindaceae.com/jbrowse/index.html?data=longanData&tracks=DNA%2Canno_gff3_final" target="_blank">Shi Xia <i class="fas fa-external-link-alt"></i></a>
+    <a class="dropdown-item text-white btn-hover" href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/longan&tracks=DNA%2Cdimlo_gene_models" target="_blank">Ji Dan Ben</a>
   </div>
 </div>
 <div class="dropdown">
@@ -17,20 +17,29 @@
     BLAST
   </a>
   <div class="dropdown-menu bg-info">
-    <a class="dropdown-item text-white btn-hover" href="http://121.37.229.61:82/SequenceServer/blast.html">SapBase <i class="fas fa-external-link-alt"></i></a>
+    <a class="dropdown-item text-white btn-hover" href="http://121.37.229.61:82/SequenceServer/blast.html" target="_blank">SapBase <i class="fas fa-external-link-alt"></i></a>
     <a class="dropdown-item text-white btn-hover" href="/easy_gdb/tools/blast/blast_input.php">Ji Dan Ben</a>
   </div>
 </div>
-<a href="https://www.sapindaceae.com/Gene-Expression-V2/GeneExpression.html" class="btn btn-info sps-btn" role="button">Gene Expression (SX) <i class="fas fa-external-link-alt"></i></a>
-<a href="https://www.sapindaceae.com/description_search/Description_search.html" class="btn btn-info sps-btn" role="button">Description Search (SX) <i class="fas fa-external-link-alt"></i></a>
-<a href="https://www.sapindaceae.com/synteny-search/SyntenySearch.html" class="btn btn-info sps-btn" role="button">Synteny Search (SX) <i class="fas fa-external-link-alt"></i></a>
+<a href="https://www.sapindaceae.com/Gene-Expression-V2/GeneExpression.html" class="btn btn-info sps-btn" target="_blank" role="button">Gene Expression (SX) <i class="fas fa-external-link-alt"></i></a>
+<a href="https://www.sapindaceae.com/synteny-search/SyntenySearch.html" class="btn btn-info sps-btn" target="_blank" role="button">Synteny Search (SX) <i class="fas fa-external-link-alt"></i></a>
+<div class="dropdown">
+  <a href="#" class="btn btn-info sps-btn dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Sequence Extraction
+  </a>
+  <div class="dropdown-menu bg-info">
+    <a class="dropdown-item text-white btn-hover" href="https://www.sapindaceae.com/description_search/Description_search.html" target="_blank">Shi Xia <i class="fas fa-external-link-alt"></i></a>
+    <a class="dropdown-item text-white btn-hover" href="/easy_gdb/tools/fasta_download.php">Ji Dan Ben</a>
+  </div>
+</div>
+<a href="/easy_gdb/tools/annot_input_list.php" class="btn btn-info sps-btn" role="button">Annotation Extraction</a>
 <div class="dropdown">
   <a href="#" class="btn btn-info sps-btn dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Downloads
   </a>
   <div class="dropdown-menu bg-info">
-    <a class="dropdown-item text-white btn-hover" href="https://www.sapindaceae.com/Download.html">SapBase <i class="fas fa-external-link-alt"></i></a>
-    <a class="dropdown-item text-white btn-hover" href="https://ihsm-bionas.uma.es/easy_gdb/downloads.php">Ji Dan Ben</a>
+    <a class="dropdown-item text-white btn-hover" href="https://www.sapindaceae.com/Download.html" target="_blank">SapBase <i class="fas fa-external-link-alt"></i></a>
+    <a class="dropdown-item text-white btn-hover" href="https://ihsm-bionas.uma.es/easy_gdb/downloads.php" target="_blank">Ji Dan Ben</a>
   </div>
 </div>
   <br style="clear:both"/>
