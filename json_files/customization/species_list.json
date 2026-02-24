@@ -62,5 +62,13 @@
       "image":"loquat.png",
       "public":"1",
       "link":"loquat.php"
+    },
+    "Litchi chinensis":
+    {
+      "card_title":"Litchi chinensis",
+      "card_subtitle":"Litchi",
+      "image":"litchi.png",
+      "public":"1",
+      "link":"litchi.php"
     }
 }
