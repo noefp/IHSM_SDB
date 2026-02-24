@@ -3,7 +3,7 @@
 <img class="float-right" src="<?php echo $images_path.'/people/fernando.png' ?>" style="margin-left:20px">
 <h3>Fernando Silva Reiriz</h3>
 <p>
-  <b>Position:</b> Technician<br>
+  <b>Position:</b> Software Developer<br>
   <b>email:</b> fernando-silva@ihsm.uma-csic.es<br>
   <b>Phone:</b>(+34) 952134177<br>
 

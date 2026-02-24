@@ -83,6 +83,16 @@
         }
       },
       {
+        "person_name": "María García Lezama",
+        "position": "Postdoctoral Researcher",
+        "picture": "maria.png",
+        "link": "maria.php",
+        "more_info": {
+          "phone": "(+34) 952548990",
+          "email": "mariagl@ihsm.uma-csic.es"
+        }
+      },
+      {
         "person_name": "Cristina Blanco Ferrer",
         "position": "Postdoctoral Researcher",
         "picture": "cristina.jpeg",
@@ -94,7 +104,7 @@
       },
       {
         "person_name": "Enrique Lopez-Gomez",
-        "position": "PhD Student",
+        "position": "PhD Candidate",
         "picture": "enrique.jpeg",
         "link": "enrique.php",
         "more_info": {
@@ -102,19 +112,10 @@
           "email": "enrique.lopez@csic.es"
         }
       },
-      {
-        "person_name": "María García Lezama",
-        "position": "PhD Student",
-        "picture": "maria.png",
-        "link": "maria.php",
-        "more_info": {
-          "phone": "(+34) 952548990",
-          "email": "mariagl@ihsm.uma-csic.es"
-        }
-      },
+
       {
         "person_name": "Amanda Bullones",
-        "position": "PhD Student",
+        "position": "PhD Candidate",
         "picture": "amanda.jpg",
         "link": "amanda.php",
         "more_info": {
@@ -124,7 +125,7 @@
       },
       {
         "person_name": "Fernando Silva-Reiriz",
-        "position": "Technician",
+        "position": "Software Developer",
         "picture": "fernando.png",
         "link": "fernando.php",
         "more_info": {

@@ -3,7 +3,7 @@
 <img class="float-right" src="<?php echo $images_path.'/people/maria.png' ?>" style="margin-left:20px">
 <h3>María García Lezama</h3>
 <p>
-  <b>Position:</b> PhD Student<br>
+  <b>Position:</b> Postdoctoral Researcher<br>
   <b>email:</b> mariagl@ihsm.uma-csic.es<br>
   <b>Phone:</b> (+34) 952548990<br>
 

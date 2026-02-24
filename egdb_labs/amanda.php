@@ -3,7 +3,7 @@
 <img class="float-right" src="<?php echo $images_path.'/people/amanda.jpg' ?>" style="margin-left:20px">
 <h3>Amanda Bullones</h3>
 <p>
-  <b>Position:</b> PhD Student<br>
+  <b>Position:</b> PhD Candidate<br>
   <b>email:</b> amanda.bullones@csic.es<br>
   <b>Phone:</b> (+34) 952134177<br>
 
