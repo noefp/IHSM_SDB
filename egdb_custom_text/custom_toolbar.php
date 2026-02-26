@@ -24,7 +24,7 @@
   </div>
 </li>
 
-<li class="nav-item"><a class="nav-link" href="/easy_gdb/downloads.php">Downloads</a></li>
+<li class="nav-item"><a class="nav-link" target="_blank" href="https://ihsm-bionas.uma.es/easy_gdb/downloads.php">Downloads</a></li>
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/about.php">About</a></li>
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/help/00_help.php">Help</a></li>
 

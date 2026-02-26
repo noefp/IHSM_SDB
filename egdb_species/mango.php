@@ -58,31 +58,14 @@
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/Mangifera%20indica/PDFs/descriptors_mango.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Descriptors for mango </a>
+        <a href="https://ihsm-bionas.uma.es/downloads/Mangifera%20indica/PDFs/descriptors_mango.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Descriptors for mango </a>
       </div>
     </div>
   </div>
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/Mangifera%20indica/PDFs/Guia_descriptiva_cultivares_mango.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Guía descriptiva de cultivares del mango </a>
-      </div>
-    </div>
-  </div>
-</div>
-  
-<div class="row" style="width:900px;margin-left:0px">
-  <div class="col" style="padding:0px">
-    <div class="card">
-      <div class="card-body">
-        <a href="/downloads/Mangifera%20indica/PDFs/mango_guia_plagas.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Guia de gestion integrada de plagas de mango</a>
-      </div>
-    </div>
-  </div>
-  <div class="col" style="padding:0px">
-    <div class="card">
-      <div class="card-body">
-        <a href="/downloads/Mangifera%20indica/PDFs/Plagas_y_enfermedades_mango.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Plagas y enfermedades del mango</a>
+        <a href="https://ihsm-bionas.uma.es/downloads/Mangifera%20indica/PDFs/Guia_descriptiva_cultivares_mango.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Guía descriptiva de cultivares del mango </a>
       </div>
     </div>
   </div>
@@ -92,7 +75,24 @@
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/Mangifera%20indica/PDFs/Training_&_pruning_mango.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Training and Pruning Mango tree </a>
+        <a href="https://ihsm-bionas.uma.es/downloads/Mangifera%20indica/PDFs/mango_guia_plagas.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Guia de gestion integrada de plagas de mango</a>
+      </div>
+    </div>
+  </div>
+  <div class="col" style="padding:0px">
+    <div class="card">
+      <div class="card-body">
+        <a href="https://ihsm-bionas.uma.es/downloads/Mangifera%20indica/PDFs/Plagas_y_enfermedades_mango.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Plagas y enfermedades del mango</a>
+      </div>
+    </div>
+  </div>
+</div>
+  
+<div class="row" style="width:900px;margin-left:0px">
+  <div class="col" style="padding:0px">
+    <div class="card">
+      <div class="card-body">
+        <a href="https://ihsm-bionas.uma.es/downloads/Mangifera%20indica/PDFs/Training_&_pruning_mango.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Training and Pruning Mango tree </a>
       </div>
     </div>
   </div>

@@ -72,31 +72,14 @@
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/Persea%20americana/PDFs/Descriptors avocado IPGRI 1995.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Descriptors for avocado </a>
+        <a href="https://ihsm-bionas.uma.es/downloads/Persea%20americana/PDFs/Descriptors%20avocado%20IPGRI%201995.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Descriptors for avocado </a>
       </div>
     </div>
   </div>
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/Persea%20americana/PDFs/Guia_gestion_integrada_plagas_aguacate.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Guía de gestión integrada de plagas del aguacate </a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row" style="width:900px;margin-left:0px">
-  <div class="col" style="padding:0px">
-    <div class="card">
-      <div class="card-body">
-        <a href="/downloads/Persea%20americana/PDFs/Manual_calidad_aguacate.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Manual de calidad del aguacate </a>
-      </div>
-    </div>
-  </div>
-  <div class="col" style="padding:0px">
-    <div class="card">
-      <div class="card-body">
-        <a href="/downloads/Persea%20americana/PDFs/Manual_de_manejo_practico_del_cultivo_del_aguacate.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Manual de manejo práctico del cultivo de aguacate </a>
+        <a href="https://ihsm-bionas.uma.es/downloads/Persea%20americana/PDFs/Guia_gestion_integrada_plagas_aguacate.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Guía de gestión integrada de plagas del aguacate </a>
       </div>
     </div>
   </div>
@@ -106,7 +89,24 @@
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/Persea%20americana/PDFs/Avocado_valor_nutricional_aguacate_FEN.org.es.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Valor nutricional aguacate Fen.org.es </a>
+        <a href="https://ihsm-bionas.uma.es/downloads/Persea%20americana/PDFs/Manual_calidad_aguacate.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Manual de calidad del aguacate </a>
+      </div>
+    </div>
+  </div>
+  <div class="col" style="padding:0px">
+    <div class="card">
+      <div class="card-body">
+        <a href="https://ihsm-bionas.uma.es/downloads/Persea%20americana/PDFs/Manual_de_manejo_practico_del_cultivo_del_aguacate.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Manual de manejo práctico del cultivo de aguacate </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row" style="width:900px;margin-left:0px">
+  <div class="col" style="padding:0px">
+    <div class="card">
+      <div class="card-body">
+        <a href="https://ihsm-bionas.uma.es/downloads/Persea%20americana/PDFs/Avocado_valor_nutricional_aguacate_FEN.org.es.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Valor nutricional aguacate Fen.org.es </a>
       </div>
     </div>
   </div>
