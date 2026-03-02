@@ -1,4 +1,10 @@
 {
+  "Acherimola_booth_annotations": {
+    "displayed_name":"<i>Annona cherimola</i> Booth",
+    "description":"",
+    "jbrowse":"/jbrowse/?data=data%2FAcherimola_booth&loc={gene_name}&tracks=DNA%2CAcherimola_booth_gene_models",
+    "gene_blast_dbs": ["Ach_booth_cds.fasta","Ach_booth_pep.fasta"]
+  },
   "Annona_cherimola_Annotations.txt": {
     "displayed_name":"<i>Annona cherimola</i> v102",
     "description":"",
