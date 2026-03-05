@@ -2,8 +2,8 @@
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
-<br>
-<a href="easy_gdb/tools/passport/02_pass_file_to_datatable.php?dir_name=lucumo" target="_blank" class="btn btn-info sps-btn" role="button">Passport Data</a>
+
+<a href="tools/passport/02_pass_file_to_datatable.php?dir_name=lucumo" target="_blank" class="btn btn-info sps-btn" role="button">Passport Data</a>
 <br style="clear:both"/>
 
 <p>
