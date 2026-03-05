@@ -40,5 +40,11 @@
     "description":"",
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Floquat&loc={gene_name}&tracks=DNA%2Cerija_gene_models",
     "gene_blast_dbs": ["loquat_vR1_CDS.fasta","loquat_vR1_proteins.fasta", "loquat_vR1_transcripts.fasta"]
+  },
+  "Carica_papaya_annotations.txt": {
+    "displayed_name":"<i>Carica papaya</i>",
+    "description":"",
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Fpapaya&loc={gene_name}&tracks=DNA%2Ccarpa_gene_models",
+    "gene_blast_dbs": ["papaya_CDS.fasta","papaya_proteins.fasta", "papaya_transcripts.fasta"]
   }
 }

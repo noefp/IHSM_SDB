@@ -70,5 +70,29 @@
       "image":"litchi.png",
       "public":"1",
       "link":"litchi.php"
+    },
+    "Carica papaya":
+    {
+    "card_title":"Carica papaya",
+    "card_subtitle":"Papaya",
+    "image":"papaya.png",
+    "public":"1",
+    "link":"papaya.php"
+    },
+    "Feijoa sellowiana":
+    {
+      "card_title":"Feijoa sellowiana",
+      "card_subtitle":"Feijoa",
+      "image":"feijoa.png",
+      "public":"1",
+      "link":"feijoa.php"
+    },
+    "Pouteria lucuma":
+    {
+      "card_title":"Pouteria lucuma",
+      "card_subtitle":"Lucuma",
+      "image":"lucumo.png",
+      "public":"1",
+      "link":"lucumo.php"
     }
 }
