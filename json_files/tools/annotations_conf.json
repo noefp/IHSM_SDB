@@ -1,4 +1,10 @@
 {
+  "Amontana_annotations.txt": {
+    "displayed_name":"<i>Annona montana</i>",
+    "description":"",
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAmontana&loc={gene_name}&tracks=DNA%2CAmontana_gene_models",
+    "gene_blast_dbs": ["Amontana_CDS.fasta","Amontana_transcripts.fasta","Amontana_proteins.fasta"]
+  },
   "Acherimola_booth_annotations.txt": {
     "displayed_name":"<i>Annona cherimola</i> Booth",
     "description":"",
