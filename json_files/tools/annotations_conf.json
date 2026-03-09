@@ -28,7 +28,7 @@
     "description":"",
     "jbrowse":"https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FTcacao_v2_1&loc={gene_name}&tracks=DNA%2CTranscripts",
     "gene_blast_dbs": ["Theobroma_Cacao_Matina_protein.fasta","Theobroma_Cacao_Matina_CDS.fasta"]
-  }
+  },
   "Averrhoa_carambola_annotations.txt": {
     "displayed_name":"<i>Averrhoa carambola</i>",
     "description":"",
