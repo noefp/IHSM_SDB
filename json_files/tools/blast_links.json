@@ -6,16 +6,10 @@
   "Acherimola_booth_genome.fasta":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAcherimola_booth&loc={chr}%3A{start}..{end}&tracks=DNA%2CAcherimola_booth_gene_models",
   "Acherimola_booth_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Annona/Acherimola_booth_annotations.txt",
   "Acherimola_booth_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Annona/Acherimola_booth_annotations.txt",
-  "Cacao_Criollo_Genomic.fasta":"https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Criollo&loc={chr}%3A{start}..{end}&tracks=DNA%2CCriollo_Genes",
   "Amontana_genome.fasta":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAmontana&loc={chr}%3A{start}..{end}&tracks=DNA%2CAmontana_gene_models",
   "Amontana_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Annona/Amontana_annotations.txt",
   "Amontana_transcripts.fasta":"/easy_gdb/gene.php?name={subject}&annot=Annona/Amontana_annotations.txt",
   "Amontana_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Annona/Amontana_annotations.txt",
-  "Cacao_Criollo_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Cacao_Criollo.txt",
-  "Cacao_Criollo_Protein.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Cacao_Criollo.txt",
-  "Cacao_Matina_v2_Genomic.fasta":"https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Matina&loc={chr}%3A{start}..{end}&tracks=DNA%2CMatina_Genes",
-  "Cacao_Matina_v2_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Cacao_Matina.txt",
-  "Cacao_Matina_v2_protein.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Cacao_Matina.txt",
   "carambola_genome.fasta":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/carambola&loc={chr}%3A{start}..{end}&tracks=DNA%2Caveca_gene_models",
   "carambola_vR1_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Averrhoa_carambola/Averrhoa_carambola_annotations.txt",
   "carambola_vR1_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Averrhoa_carambola/Averrhoa_carambola_annotations.txt",
@@ -31,7 +25,13 @@
   "papaya_genome.fasta":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/papaya&loc={chr}%3A{start}..{end}&tracks=DNA%2Ccarpa_gene_models",
   "papaya_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Carica_papaya/Carica_papaya_annotations.txt",
   "papaya_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Carica_papaya/Carica_papaya_annotations.txt",
-  "papaya_transcripts.fasta":"/easy_gdb/gene.php?name={subject}&annot=Carica_papaya/Carica_papaya_annotations.txt"
+  "papaya_transcripts.fasta":"/easy_gdb/gene.php?name={subject}&annot=Carica_papaya/Carica_papaya_annotations.txt",
+  "Theobroma_Cacao_Criollo_Genomic.fasta":"https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Criollo&loc={chr}%3A{start}..{end}&tracks=DNA%2CCacao_Criollo",
+  "Theobroma_Cacao_Criollo_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Theobroma_cacao_Criollo.txt",
+  "Theobroma_Cacao_Criollo_Protein.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Theobroma_cacao_Criollo.txt",
+  "Theobroma_Cacao_Matina_genome.fasta":"https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FTcacao_v2_1&loc={chr}%3A{start}..{end}&tracks=DNA%2CTranscripts",
+  "Theobroma_Cacao_Matina_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Theobroma_cacao_Matina.txt",
+  "Theobroma_Cacao_Matina_protein.fasta":"/easy_gdb/gene.php?name={subject}&annot=Cacao/Theobroma_cacao_Matina.txt"
 }
 
 

@@ -3,7 +3,9 @@
     {"gprofiler_sps" : "athaliana",
       "lookup_files":
       [
-        "Best_BLAST_hit_between_Cherimoya_and_arabidopsis.txt"
+        "Best_BLAST_hit_between_Cherimoya_and_arabidopsis.txt",
+        "Best Blast Hit arabidopsis - T. Cacao Criollo.txt",
+        "Best Blast Hit arabidopsis - T. Cacao Matina.txt"
       ]
     }
 }
