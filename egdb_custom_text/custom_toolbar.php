@@ -7,7 +7,7 @@
   <div class="dropdown-menu">
     <a class="dropdown-item" href="/easy_gdb/tools/search/search_input.php">Search</a>
     <a class="dropdown-item" href="/easy_gdb/tools/blast/blast_input.php">BLAST</a>
-    <a class="dropdown-item jbrowse_link" href="/jbrowse/?data=data%2Fanche102" target="_blank">Genome Browser</a>
+    <a class="dropdown-item" href="/easy_gdb/custom_view.php?file_name=genome_browser.php">Genome Browser</a>
     <a class="dropdown-item" href="/easy_gdb/tools/fasta_download.php">Sequence Extraction</a>
     <a class="dropdown-item" href="/easy_gdb/tools/annot_input_list.php">Annotation Extraction</a>
     <a class="dropdown-item" href="/easy_gdb/tools/gene_lookup.php">Gene Version Lookup</a>
