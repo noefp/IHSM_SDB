@@ -49,8 +49,8 @@
         <div class="col-md-6">
           <h5 style="color:#b52b27"><i>Annona</i> spp.</h5>
           <div class="list-group">
-            <a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/Asquamosa&tracks=DNA%2CAsquamosa_gene_models" target="_blank" data-toggle="modal" data-target="#jbrowse_unavailable"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center"> <!--Add jbrowse_link when available -->
+            <a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/Annona_squamosa&tracks=DNA%2CAsquamosa_gene_models" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
               A. squamosa (Iridian Genomes)
               <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
             </a>
