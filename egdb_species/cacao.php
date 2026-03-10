@@ -91,21 +91,12 @@
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
-        <a href="/downloads/cacao/Descriptores para cacao.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em>Descriptors by the Ministry of agriculture development of Peru</a>
+        <a href="https://ihsm-bionas.uma.es/downloads/Theobroma%20cacao/PDFs/%20Descriptors%20by%20the%20Ministry%20of%20agriculture%20development%20of%20Peru.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em>   Descriptors by the Ministry of agriculture development of Peru</a>
       </div>
     </div>
   </div>
 </div>
 
-<div class="row" style="width:900px;margin-left:0px">
-  <div class="col" style="padding:0px">
-    <div class="card">
-      <div class="card-body">
-        <a href="/downloads/cacao/Cacao RNA seq Pod.pdf"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em>Cacao pod transcriptome profiling of seven genotypes for post-penetration resistance to Phytophthora palmivora (Atlas data)</a>
-      </div>
-    </div>
-  </div>
-</div>
 
 <br>
 
