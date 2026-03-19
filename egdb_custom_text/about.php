@@ -32,13 +32,13 @@
 
 <h1>Funded by:</h1>
 
-<p>PID2021-125805OA-I00 funded by MICIU/AEI/10.13039/501100011033 and by “ERDF A way of making Europe”.</p>
-<img class="funding_logo" src="<?php echo $images_path.'/logos/miciu-aei.png' ?>">
+<p>PID2021-125805OA-I00 funded by MCIN/AEI/10.13039/501100011033 and by “ERDF A way of making Europe”.</p>
+<img class="funding_logo" src="<?php echo $images_path.'/logos/MCIN-AEI.jpg' ?>">
 <img class="funding_logo" src="<?php echo $images_path.'/logos/ERDF.png' ?>">
 <br>
 <br>
-<p>CNS2023-144643 funded by MCIN/AEI/10.13039/501100011033 and NextGenerationEU/PRTR.</p>
-<img class="funding_logo" src="<?php echo $images_path.'/logos/MCIN-AEI.jpg' ?>">
+<p>CNS2023-144643 funded by MICIU/AEI/10.13039/501100011033 and NextGenerationEU/PRTR.</p>
+<img class="funding_logo" src="<?php echo $images_path.'/logos/miciu-aei.png' ?>">
 <img class="funding_logo" src="<?php echo $images_path.'/logos/prtr.jpg' ?>">
 <img class="funding_logo" src="<?php echo $images_path.'/logos/nextgeneu.jpg' ?>">
 <br>
