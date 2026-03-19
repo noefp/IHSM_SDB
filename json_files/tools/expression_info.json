@@ -118,5 +118,104 @@
           "ICS1_C":"cacao_c.png",
           "ICS1_P":"ICS_1.jpg"
         }
+    },
+    "01_C._papaya_fruit_ripening_induced_by_ethylene.txt":
+    {"link":"",
+      "annotation_file":"example/gene_annotations.txt",
+      "description":"carpa01.php",
+      "images":
+        {
+          "carpa01":"carpa01.jpeg"
+        }
+    },
+  "02_C._papaya_fruit_ripening_of_two_varieties_with_different_flavor_profile.txt":
+    {"link":"",
+      "annotation_file":"example/gene_annotations.txt",
+      "description":"carpa02.php",
+      "images":
+        {
+          "carpa02":"carpa02.jpeg"
+        }
+    },
+  "03_C._papaya_pistil_development.txt":
+    {"link":"",
+      "annotation_file":"example/gene_annotations.txt",
+      "description":"carpa03.php",
+      "images":
+        {
+          "FS1":"FS1.jpeg",
+          "FS2":"FS2.jpeg",
+          "FS3":"FS3.jpeg",
+          "FS4":"FS4.jpeg",
+          "MS1":"MS1.jpeg",
+          "MS2":"MS2.jpeg",
+          "MS3":"MS3.jpeg",
+          "MS4":"MS4.jpeg"
+        }
+    },
+  "04_C._papaya_flowers_buds_at_pre-_and_post-meiosis.txt":
+    {"link":"",
+      "annotation_file":"example/gene_annotations.txt",
+      "description":"carpa04.php",
+      "images":
+        {
+          "carpa04":"carpa04.jpeg"
+          
+        }
+    }, 
+  "05_C._papaya_gynoecium_morphogenesis_induced_by_auxin.txt":
+    {"link":"",
+      "annotation_file":"example/gene_annotations.txt",
+      "description":"carpa05.php",
+      "images":
+        {
+          "H_dom-FG":"H_dom-FG.jpeg",
+          "H_aux-RG":"H_aux-RG.jpeg",
+          "H_dom-RG":"H_dom-RG.jpeg",
+          "F-FG":"F-FG.jpeg",
+          "F.FG":"F.FG.jpeg",
+          "M.RG":"M.RG.jpeg"
+        }
+    },
+  "06_C._papaya_callus_and_shoot_regeneration.txt":
+    {"link":"",
+      "annotation_file":"example/gene_annotations.txt",
+      "description":"carpa06.php",
+      "images":
+        {
+          "Hypocotyl":"Hypocotyl.jpeg",
+          "Callus 1":"Callus 1.jpeg",
+          "Callus 2":"Callus 2.jpeg",
+          "Callus 3":"Callus 3.jpeg",
+          "Shoot":"Shoot.jpeg"
+
+        }
+    },
+  "07_C._papaya_drought_stress.txt":
+    {"link":"",
+      "annotation_file":"example/gene_annotations.txt",
+      "description":"carpa07.php",
+      "images":
+        {
+          "carpa07":"carpa07.jpeg",
+          "Root CN":"Root CN.jpeg",
+          "Root 10 DASI":"Root 10 DASI.jpeg",
+          "Root 20 DASI":"Root 20 DASI.jpeg",
+          "Leaf CN":"Leaf CN.jpeg",
+          "Leaf 10 DASI":"Leaf 10 DASI.jpeg",
+          "Leaf 20 DASI":"Leaf 20 DASI.jpeg",
+          "Sap CN":"Sap CN.jpeg",
+          "Sap 10 DASI":"Sap 10 DASI.jpeg",
+          "Sap 20 DASI":"Sap 20 DASI.jpeg"
+        }
+    },
+    "08_C._papaya_response_to_PLDMV_and_Chitosan-N.txt":
+    {"link":"",
+      "annotation_file":"example/gene_annotations.txt",
+      "description":"carpa08.php",
+      "images":
+        {
+          "carpa08":"carpa08.jpeg"
+        }
     }
 }
