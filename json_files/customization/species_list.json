@@ -20,6 +20,21 @@
         "public":"1",
         "link":"avocado.php"
       },
+      "Carica papaya":
+      {
+      "card_title":"Carica papaya",
+      "card_subtitle":"Papaya",
+      "image":"papaya.png",
+      "public":"1",
+      "link":"papaya.php"
+      },
+      "Selenicereus undatus":
+        {"card_title":"Selenicereus undatus",
+        "card_subtitle":"Pitahaya",
+        "image":"pitahaya.png",
+        "public":"1",
+        "link":"pitahaya.php"
+      },
     "Averrhoa carambola":
       {"card_title":"Averrhoa carambola",
       "card_subtitle":"Carambola",
@@ -27,26 +42,20 @@
       "public":"1",
       "link":"carambola.php"
     },
-    "Asimina triloba":
-      {"card_title":"Asimina triloba",
-      "card_subtitle":"Pawpaw",
-      "image":"pawpaw.png",
-      "public":"1",
-      "link":"pawpaw.php"
-    },
-    "Selenicereus undatus":
-      {"card_title":"Selenicereus undatus",
-      "card_subtitle":"Pitahaya",
-      "image":"pitahaya.png",
-      "public":"1",
-      "link":"pitahaya.php"
-    },
     "Theobroma cacao":
       {"card_title":"Theobroma cacao",
       "card_subtitle":"Cacao",
       "image":"cacao.jpg",
       "public":"1",
       "link":"cacao.php"
+    },
+    "Litchi chinensis":
+    {
+      "card_title":"Litchi chinensis",
+      "card_subtitle":"Litchi",
+      "image":"litchi.png",
+      "public":"1",
+      "link":"litchi.php"
     },
     "Dimocarpus longan":
     {"card_title":"Dimocarpus longan",
@@ -63,21 +72,12 @@
       "public":"1",
       "link":"loquat.php"
     },
-    "Litchi chinensis":
-    {
-      "card_title":"Litchi chinensis",
-      "card_subtitle":"Litchi",
-      "image":"litchi.png",
+    "Asimina triloba":
+      {"card_title":"Asimina triloba",
+      "card_subtitle":"Pawpaw",
+      "image":"pawpaw.png",
       "public":"1",
-      "link":"litchi.php"
-    },
-    "Carica papaya":
-    {
-    "card_title":"Carica papaya",
-    "card_subtitle":"Papaya",
-    "image":"papaya.png",
-    "public":"1",
-    "link":"papaya.php"
+      "link":"pawpaw.php"
     },
     "Feijoa sellowiana":
     {
