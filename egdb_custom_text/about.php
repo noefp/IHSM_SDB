@@ -32,8 +32,8 @@
 
 <h1>Funded by:</h1>
 
-<p>PID2021-125805OA-I00 funded by MCIN/AEI/10.13039/501100011033 and by “ERDF A way of making Europe”.</p>
-<img class="funding_logo" src="<?php echo $images_path.'/logos/MCIN-AEI.jpg' ?>">
+<p>PID2021-125805OA-I00 funded by MICIU/AEI/10.13039/501100011033 and by “ERDF A way of making Europe”.</p>
+<img class="funding_logo" src="<?php echo $images_path.'/logos/miciu-aei.png' ?>">
 <img class="funding_logo" src="<?php echo $images_path.'/logos/ERDF.png' ?>">
 <br>
 <br>
@@ -43,8 +43,8 @@
 <img class="funding_logo" src="<?php echo $images_path.'/logos/nextgeneu.jpg' ?>">
 <br>
 <br>
-<p>20224AT004 funded by MCIN/AEI/10.13039/501100011033, CSIC and IHSM.</p>
-<img class="funding_logo" src="<?php echo $images_path.'/logos/MCIN-AEI.jpg' ?>">
+<p>20224AT004 funded by MICIU/AEI/10.13039/501100011033, CSIC and IHSM.</p>
+<img class="funding_logo" src="<?php echo $images_path.'/logos/miciu-aei.png' ?>">
 <img class="funding_logo" src="<?php echo $images_path.'/logos/csic_logo.png' ?>">
 <img class="funding_logo" src="<?php echo $images_path.'/logos/ihsm_logo.png' ?>">
 <br>
