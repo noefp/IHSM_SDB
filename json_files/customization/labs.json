@@ -23,6 +23,16 @@
         }
       },
       {
+        "person_name": "Librada Alcaraz Arco",
+        "position": "Tenured Scientist",
+        "picture": "librada.jpg",
+        "link": "",
+        "more_info": {
+          "phone": "(+34) 952548990",
+          "email": "librada@eelm.csic.es"
+        }
+      },
+      {
         "person_name": "Jorge Lora",
         "position": "Tenured Scientist",
         "picture": "lora.jpeg",
@@ -53,6 +63,16 @@
         }
       },
       {
+        "person_name": "Gloria López Casado",
+        "position": "Germplasm Manager",
+        "picture": "gloria.jpeg",
+        "link": "",
+        "more_info": {
+          "phone": "(+34) 952548990",
+          "email": "glorialcasado@eelm.csic.es"
+        }
+      },
+      {
         "person_name": "Alicia Talavera Júdez",
         "position": "Postdoctoral Researcher",
         "picture": "talavera.jpeg",
@@ -60,26 +80,6 @@
         "more_info": {
           "phone": "(+34) 952134177",
           "email": " a.talavera@csic.es"
-        }
-      },
-      {
-        "person_name": "Librada Alcaraz Arco",
-        "position": "Postdoctoral Researcher",
-        "picture": "librada.jpg",
-        "link": "",
-        "more_info": {
-          "phone": "(+34) 952548990",
-          "email": "librada@eelm.csic.es"
-        }
-      },
-      {
-        "person_name": "Gloria López Casado",
-        "position": "Postdoctoral Researcher",
-        "picture": "gloria.jpeg",
-        "link": "",
-        "more_info": {
-          "phone": "(+34) 952548990",
-          "email": "glorialcasado@eelm.csic.es"
         }
       },
       {
@@ -112,7 +112,6 @@
           "email": "enrique.lopez@csic.es"
         }
       },
-
       {
         "person_name": "Amanda Bullones",
         "position": "PhD Candidate",
@@ -140,15 +139,9 @@
     "people": [
       {
         "person_name": "Manuela Sanchez-Serrano",
-        "position": "Technician",
+        "position": "Bioinformatician",
         "picture": "manuela.jpg",
         "link": "manuela.php"
-      },
-      {
-        "person_name": "Aynhoa Gomez-Olle",
-        "position": "Technician",
-        "picture": "aynhoa.jpeg",
-        "link": "aynhoa.php"
       }
     ]
   }
