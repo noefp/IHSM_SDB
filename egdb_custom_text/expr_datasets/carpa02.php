@@ -17,7 +17,7 @@ echo "</ul>";
      stored at 27 ◦C for one day and then transported in a refrigerated truck to the laboratory at Griffith University, Nathan Campus, Brisbane. Fruit
       flesh was cut into 5 mm pieces and flash frozen in liquid N2, then stored at −80 ◦C until processed for RNA extraction.
 </p>
-<img class='rounded-0' src='<?php echo "$images_path/expr/carpa02.jpeg";?>' width="1000px" alt='img example'>
+<img class='rounded-0' src='<?php echo "$images_path/expr/carpa02.jpeg";?>' width="500px" alt='img example'>
 <p>
 Five fruit maturity and ripening stages (1 = mature green, 2 = 25% colour, 3 = 50% colour, 4 = 75% colour, 5 = fully ripe). 
 </p>

@@ -26,7 +26,7 @@ echo "</ul>";
     flowers with length &lt;2 mm and separated functional and rudimentary gynoecium by anatomic dissection under microscope for RNA extraction. Three biological 
     replications for each type of sample were collected with each replication of 5–30 flowers.
 </p>
-<img class='rounded-0' src='<?php echo "$images_path/expr/carpa05.jpeg";?>' width="700px" alt='img example'>
+<img class='rounded-0' src='<?php echo "$images_path/expr/carpa05.jpeg";?>' width="600px" alt='img example'>
 <p>
 The phenotypic changes of the NPA-treated flowers in dioecious papaya “Zhonghuang”. <strong>(a)</strong> Male inflorescence on the male plants. <strong>(b)</strong> Female flowers on the female plants.
 <strong>(c)</strong> Male inflorescences treated by NPA. Arrow indicated a long-rod phenotype flowers due to a decrease in androecium number. <strong>(d)</strong> A long-rod phenotype male flower with 

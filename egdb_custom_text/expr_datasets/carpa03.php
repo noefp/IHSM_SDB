@@ -38,7 +38,7 @@ The phenotype of the papaya pistil at different developmental stages (S1 to S4) 
 <p>
   The phenotype of the papaya pistil at different developmental stages (S1 to S4) in male flowers.
 </p>
-<img class='rounded-0' src='<?php echo "$images_path/expr/carpa03.jpeg";?>' width="400px" alt='img example'>
+<img class='rounded-0' src='<?php echo "$images_path/expr/carpa03.jpeg";?>' width="300px" alt='img example'>
 <p>
 The phenotype of the papaya pistil at different developmental stages (S1 to S4) in female and male flowers.
 </p>
@@ -59,5 +59,4 @@ echo "</ul>";
   <a href="https://doi.org/10.1186/s12864-021-08197-7" target="_blank">Liao et al., 2022</a>,
    and raw data can be found in the PioProject <a href="https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA687615" target="_blank">PRJNA687615</a>.
 </p>
-<br>
 
