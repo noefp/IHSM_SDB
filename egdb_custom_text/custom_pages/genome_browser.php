@@ -59,8 +59,8 @@
               A. montana
               <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
             </a>
-            <a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/Aglabra&tracks=DNA%2CAglabra_gene_models" target="_blank" data-toggle="modal" data-target="#jbrowse_unavailable"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center"> <!--Add jbrowse_link when available -->
+            <a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/Annona_glabra&tracks=DNA%2CAglabra_gene_models" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
               A. glabra
               <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
             </a>
