@@ -121,25 +121,17 @@
     },
     "01_C._papaya_fruit_ripening_induced_by_ethylene.txt":
     {"link":"",
-      "annotation_file":"Papaya/Carica_papaya_annotations.txt",
-      "description":"carpa01.php",
-      "images":
-        {
-          "carpa01":"carpa01.jpeg"
-        }
+      "annotation_file":"Carica_papaya/Carica_papaya_annotations.txt",
+      "description":"carpa01.php"
     },
-  "02_C._papaya_fruit_ripening_of_two_varieties_with_different_flavor_profile.txt":
+    "02_C._papaya_fruit_ripening_of_two_varieties_with_different_flavor_profile.txt":
     {"link":"",
-      "annotation_file":"Papaya/Carica_papaya_annotations.txt",
-      "description":"carpa02.php",
-      "images":
-        {
-          "carpa02":"carpa02.jpeg"
-        }
+      "annotation_file":"Carica_papaya/Carica_papaya_annotations.txt",
+      "description":"carpa02.php"
     },
-  "03_C._papaya_pistil_development.txt":
+    "03_C._papaya_pistil_development.txt":
     {"link":"",
-      "annotation_file":"Papaya/Carica_papaya_annotations.txt",
+      "annotation_file":"Carica_papaya/Carica_papaya_annotations.txt",
       "description":"carpa03.php",
       "images":
         {
@@ -153,19 +145,14 @@
           "MS4":"MS4.jpeg"
         }
     },
-  "04_C._papaya_flowers_buds_at_pre-_and_post-meiosis.txt":
+    "04_C._papaya_flowers_buds_at_pre-_and_post-meiosis.txt":
     {"link":"",
-      "annotation_file":"Papaya/Carica_papaya_annotations.txt",
-      "description":"carpa04.php",
-      "images":
-        {
-          "carpa04":"carpa04.jpeg"
-          
-        }
+      "annotation_file":"Carica_papaya/Carica_papaya_annotations.txt",
+      "description":"carpa04.php"
     }, 
-  "05_C._papaya_gynoecium_morphogenesis_induced_by_auxin.txt":
+    "05_C._papaya_gynoecium_morphogenesis_induced_by_auxin.txt":
     {"link":"",
-      "annotation_file":"Papaya/Carica_papaya_annotations.txt",
+      "annotation_file":"Carica_papaya/Carica_papaya_annotations.txt",
       "description":"carpa05.php",
       "images":
         {
@@ -177,9 +164,9 @@
           "M.RG":"M.RG.jpeg"
         }
     },
-  "06_C._papaya_callus_and_shoot_regeneration.txt":
+    "06_C._papaya_callus_and_shoot_regeneration.txt":
     {"link":"",
-      "annotation_file":"Papaya/Carica_papaya_annotations.txt",
+      "annotation_file":"Carica_papaya/Carica_papaya_annotations.txt",
       "description":"carpa06.php",
       "images":
         {
@@ -191,9 +178,9 @@
 
         }
     },
-  "07_C._papaya_drought_stress.txt":
+    "07_C._papaya_drought_stress.txt":
     {"link":"",
-      "annotation_file":"Papaya/Carica_papaya_annotations.txt",
+      "annotation_file":"Carica_papaya/Carica_papaya_annotations.txt",
       "description":"carpa07.php",
       "images":
         {
@@ -211,11 +198,8 @@
     },
     "08_C._papaya_response_to_PLDMV_and_Chitosan-N.txt":
     {"link":"",
-      "annotation_file":"Papaya/Carica_papaya_annotations.txt",
-      "description":"carpa08.php",
-      "images":
-        {
-          "carpa08":"carpa08.jpeg"
-        }
+      "annotation_file":"Carica_papaya/Carica_papaya_annotations.txt",
+      "description":"carpa08.php"
     }
+   
 }
