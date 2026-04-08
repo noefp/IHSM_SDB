@@ -33,7 +33,7 @@
         "card_subtitle":"Pitahaya",
         "image":"pitahaya.png",
         "public":"1",
-        "link":"pitahaya.php"
+        "link":"pitahaya_sp.php"
       },
     "Averrhoa carambola":
       {"card_title":"Averrhoa carambola",
@@ -94,5 +94,13 @@
       "image":"lucumo.png",
       "public":"1",
       "link":"lucumo.php"
+    },
+    "Passiflora edulis":
+    {
+      "card_title":"Passiflora edulis",
+      "card_subtitle":"Passionfruit",
+      "image":"passiflora.png",
+      "public":"1",
+      "link":"passiflora_sp.php"
     }
 }
