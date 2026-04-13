@@ -27,3 +27,27 @@
 .btn-hover {
     background-color: #17A2B8 !important;
 }
+
+.phenotype_traits:hover{
+    background: #8b4 !important;
+    color: white;
+}
+
+.phenotype_traits, .phenotype_traits:active {
+    background: #76a835 !important; ;
+    color: white;
+}
+
+.info-icon:hover{
+color: rgb(144, 190, 82) !important;
+/* background-color: white !important; */
+}
+
+.info-icon, .info-icon:active {
+color: #7a3 !important;
+/* background-color: white !important; */
+}
+
+.collapse_section {
+    user-select:none;
+}

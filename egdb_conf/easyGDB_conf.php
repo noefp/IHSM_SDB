@@ -1,6 +1,4 @@
 <?php
-$warning_debug = 0;
-
 // File paths
 $root_path = "/var/www/html"; //use absolute path
 $egdb_files_folder = "IHSM_SDB";
@@ -57,7 +55,6 @@ $tb_enrichment = 1;
 $tb_help = 0;
 $tb_more = 0;
 $tb_private = 0;
-$tb_passport = 0;
 
 // About
 $ab_citation = 1;
@@ -66,6 +63,9 @@ $ab_labs = 1;
 // Expression Atlas
 $expr_menu = 1;
 $tb_gene_expr = 0;
+
+// warning debug mode: 0 for off, 1 for on
+$warning_debug = 0;
 
 
 // Expression tools order: 0 for not shown, >=1 to setup the order
@@ -80,6 +80,7 @@ $positions=[
 ];
 
 // Passport
+$tb_passport = 0;
 $show_map = 1;
 $show_qr = 1;
 
