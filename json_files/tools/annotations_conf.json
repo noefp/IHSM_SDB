@@ -83,7 +83,7 @@
     "jbrowse":"",
     "gene_blast_dbs": ["Smegalanthus_genome.fasta","Smegalanthus_CDS.fasta", "Smegalanthus_protein.fasta"]
   },
-  "Selenicereus_monacanthus_ShuangSe_annotations.txt": {
+  "Selenicereus_monacanthus_annotations.txt": {
     "displayed_name":"<i>Selenicereus monacanthus cv.ShuangSe</i>",
     "description":"",
     "jbrowse":"",
