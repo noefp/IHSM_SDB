@@ -69,7 +69,7 @@
     "displayed_name":"<i>Passiflora edulis</i>",
     "description":"",
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Fpassiflora&loc={gene_name}&tracks=DNA%2Cpased_gene_models",
-    "gene_blast_dbs": ["Pedulis_protein.fasta","Pedeulis_CDS.fasta", "Pedeulis_cDNA.fasta"]
+    "gene_blast_dbs": ["Pedulis_protein.fasta","Pedulis_CDS.fasta", "Pedulis_cDNA.fasta"]
   },
   "Selenicereus_megalanthus_annotations.txt": {
     "displayed_name":"<i>Selenicereus megalanthus</i>",
