@@ -32,7 +32,7 @@
   "Theobroma_cacao_Criollo.txt": {
     "displayed_name":"<i>Cacao Criollo</i> v2",
     "description":"",
-    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Criollo&loc={gene_name}&tracks=DNA%2CCacao_Criollo",
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Criollo&loc={gene_name}&tracks=DNA%2CCriollo_Genes",
     "gene_blast_dbs": ["Theobroma_Cacao_Criollo_Protein.fasta","Theobroma_Cacao_Criollo_CDS.fasta"]
   },
   "Theobroma_cacao_Matina.txt": {
