@@ -29,6 +29,12 @@
     "jbrowse":"/jbrowse/?data=data%2Fanche102&loc={gene_name}&tracks=DNA%2Canche102_genes",
     "gene_blast_dbs": ["Annona_cherimola_CDS_v102.fasta","Annona_cherimola_proteins_v102.fasta","Annona_cherimola_transcripts_v102.fasta"]
   },
+  "Annona_muricata_annotations.txt": {
+    "displayed_name":"<i>Annona muricata</i>",
+    "description":"",
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAnnona_muricata&loc={gene_name}&tracks=DNA%2CAmuricata_gene_models",
+    "gene_blast_dbs": ["Annona_muricata_CDS.fasta","Annona_muricata_transcripts.fasta","Annona_muricata_proteins.fasta"]
+  },
   "Theobroma_cacao_Criollo.txt": {
     "displayed_name":"<i>Cacao Criollo</i> v2",
     "description":"",
