@@ -29,15 +29,15 @@
       "link":"papaya.php"
       },
       "Selenicereus undatus":
-        {"card_title":"Selenicereus undatus",
-        "card_subtitle":"Pitahaya",
+        {"card_title":"Selenicereus spp.",
+        "card_subtitle":"Pitahaya / Dragon fruit",
         "image":"pitahaya.png",
         "public":"1",
         "link":"pitahaya_sp.php"
       },
     "Averrhoa carambola":
       {"card_title":"Averrhoa carambola",
-      "card_subtitle":"Carambola",
+      "card_subtitle":"Carambola / Star fruit",
       "image":"carambola.png",
       "public":"1",
       "link":"carambola.php"
@@ -48,6 +48,14 @@
       "image":"cacao.jpg",
       "public":"1",
       "link":"cacao.php"
+    },
+    "Eriobotrya japonica":
+    {
+      "card_title":"Eriobotrya japonica",
+      "card_subtitle":"Loquat",
+      "image":"loquat.png",
+      "public":"1",
+      "link":"loquat.php"
     },
     "Litchi chinensis":
     {
@@ -64,13 +72,19 @@
       "public":"1",
       "link":"longan.php"
     },
-    "Eriobotrya japonica":
-    {
-      "card_title":"Eriobotrya japonica",
-      "card_subtitle":"Loquat",
-      "image":"loquat.png",
+    "Asimina triloba":
+      {"card_title":"Asimina triloba",
+      "card_subtitle":"Pawpaw",
+      "image":"pawpaw.png",
       "public":"1",
-      "link":"loquat.php"
+      "link":"pawpaw.php"
+    },
+    "Opuntia basilaris":
+      {"card_title":"Opuntia basilaris",
+      "card_subtitle":"Opuntia spp.",
+      "image":"chumbera.png",
+      "public":"1",
+      "link":"opuntia_sp.php"
     },
     "Asimina triloba":
       {"card_title":"Asimina triloba",
@@ -79,13 +93,13 @@
       "public":"1",
       "link":"pawpaw.php"
     },
-    "Feijoa sellowiana":
+    "Passiflora edulis":
     {
-      "card_title":"Feijoa sellowiana",
-      "card_subtitle":"Feijoa",
-      "image":"feijoa.png",
+      "card_title":"Passiflora edulis",
+      "card_subtitle":"Passion fruit / Maracuya",
+      "image":"passiflora.png",
       "public":"1",
-      "link":"feijoa.php"
+      "link":"passiflora_sp.php"
     },
     "Pouteria lucuma":
     {
@@ -95,12 +109,12 @@
       "public":"1",
       "link":"lucumo.php"
     },
-    "Passiflora edulis":
+    "Feijoa sellowiana":
     {
-      "card_title":"Passiflora edulis",
-      "card_subtitle":"Passionfruit",
-      "image":"passiflora.png",
+      "card_title":"Feijoa sellowiana",
+      "card_subtitle":"Feijoa",
+      "image":"feijoa.png",
       "public":"1",
-      "link":"passiflora_sp.php"
+      "link":"feijoa.php"
     }
 }

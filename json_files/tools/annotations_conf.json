@@ -88,5 +88,17 @@
     "description":"",
     "jbrowse":"",
     "gene_blast_dbs": ["Sstenopterus_genome.fasta","Sstenopterus_CDS.fasta", "Sstenopterus_protein.fasta", "Sstenopterus_mRNA.fasta"]
+  },
+  "Asimina_triloba_annotations.txt": {
+    "displayed_name":"<i>Asimina triloba</i>",
+    "description":"",
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FPawpaw&loc={gene_name}&tracks=DNA%2CAsitr_gene_models",
+    "gene_blast_dbs": ["Atriloba_genome.fasta","Atriloba_vH1_CDS.fasta", "Atriloba_vH1_proteins.fasta"]
+  },
+  "Opuntia_basilaris_annotations.txt": {
+    "displayed_name":"<i>Opuntia basilaris</i>",
+    "description":"",
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FOpuntia&loc={gene_name}&tracks=DNA%2COpuba_gene_models",
+    "gene_blast_dbs": ["Obasilaris_genome.fasta","Obasilaris_vH1_CDS.fasta", "Obasilaris_vH1_proteins.fasta"]
   }
 }

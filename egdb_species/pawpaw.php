@@ -2,6 +2,13 @@
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
+<a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/Pawpaw&tracks=DNA%2CAsitr_gene_models" class="btn btn-info sps-btn" role="button" target="_blank">Genome Browser</a>
+<a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button">BLAST</a>
+<a href="/easy_gdb/tools/fasta_download.php" class="btn btn-info sps-btn" role="button">Sequence Extraction</a>
+<a href="/easy_gdb/tools/annot_input_list.php" class="btn btn-info sps-btn" role="button">Annotation Extraction</a>
+<a href="https://ihsm-bionas.uma.es/easy_gdb/downloads.php" target="_blank" class="btn btn-info sps-btn" role="button">Downloads</a>
+<br style="clear:both"/>
+
 <p>
   The pawpaw (<em>Asimina triloba</em> Dunal) is a diploid species (2n=18) belonging to the family Annonaceae, which is part of the Magnoliales order in the magnoliid clade. Unlike most members of the Annonaceae, which thrive in tropical and subtropical climates, <em>Asimina</em> is adapted to cold climates and is native to North America.
 </p>
@@ -40,6 +47,18 @@
 
 <br>
 
+<h3>Genome assembly stats</h3>
+<p>
+  Summary of the <em>Asimina triloba</em> cv. 'Mango' genome assembly, from <a href="https://doi.org/10.1002/tpg2.70181" target="_blank">Yulfo-Soto et al., 2026</a>. Available at the <a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_049466995.1/" target="_blank">NCBI</a>.</li>
+</p>
+<?php include_once("pawpaw_genome_table.php");?>
+<br>
+* Reference genome for IHSM Subtropicals
+<br>
+<sup>a</sup> BUSCO based on Helixer prediction
+<br>
+<sup>b</sup> BUSCO based on embryophyta_odb12 dataset
+<br><br>
 <h3>Taxonomy</h3>
 <?php include_once("pawpaw_classification_table.php");?>
 <br>
