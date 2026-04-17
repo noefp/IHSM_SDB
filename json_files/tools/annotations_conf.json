@@ -75,19 +75,19 @@
     "displayed_name":"<i>Selenicereus megalanthus</i>",
     "description":"",
     "jbrowse":"",
-    "gene_blast_dbs": ["Smegalanthus_genome.fasta","Smegalanthus_CDS.fasta", "Smegalanthus_protein.fasta"]
+    "gene_blast_dbs": ["Smegalanthus_CDS.fasta", "Smegalanthus_protein.fasta"]
   },
   "Selenicereus_monacanthus_annotations.txt": {
     "displayed_name":"<i>Selenicereus monacanthus cv.ShuangSe</i>",
     "description":"",
     "jbrowse":"",
-    "gene_blast_dbs": ["Smonocanthus_genome.fasta","Smonocanthus_CDS.fasta", "Smonocanthus_protein.fasta", "Smonocanthus_mRNA.fasta"]
+    "gene_blast_dbs": ["Smonacanthus_CDS.fasta", "Smonacanthus_protein.fasta", "Smonacanthus_mRNA.fasta"]
   },
   "Selenicereus_stenopterus_annotations.txt": {
     "displayed_name":"<i>Selenicereus stenopterus</i>",
     "description":"",
     "jbrowse":"",
-    "gene_blast_dbs": ["Sstenopterus_genome.fasta","Sstenopterus_CDS.fasta", "Sstenopterus_protein.fasta", "Sstenopterus_mRNA.fasta"]
+    "gene_blast_dbs": ["Sstenopterus_CDS.fasta", "Sstenopterus_protein.fasta", "Sstenopterus_mRNA.fasta"]
   },
   "Asimina_triloba_annotations.txt": {
     "displayed_name":"<i>Asimina triloba</i>",
