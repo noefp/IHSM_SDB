@@ -1,8 +1,6 @@
-<!-- Help -->
-<div>
-  <a class="float-right" href="https://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html" target="_blank">
-    <i class='fa fa-info' style='font-size:20px;color:#229dff'></i> Help
-  </a>
+<!-- HELP -->
+<div class="margin-20">
+  <a class="float-right" href="https://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html" target="_blank"><i class='fa fa-info' style='font-size:20px;color:#229dff'></i> Help</a>
 </div>
 <br>
 
@@ -11,7 +9,7 @@
     <div class="col-12">
 
       <!-- Genome Browser -->
-      <h1 class="text-center">Genome Browser <i class="fas fa-dna" style="color:#555"></i><i class="fas fa-search" style="color:#555"></i></h1>
+      <h1 class="text-center">Genome Browser <i class="fas fa-stream" style="color:#555"></i></h1>
       <br>
       <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
 
@@ -47,13 +45,34 @@
         </div>
 
         <div class="col-md-6">
-          <h5 style="color:#b52b27"><i>Annona</i> spp.</h5>
+          <h5 style="color:#b52b27"><i>Annona muricata</i></h5>
+          <div class="list-group">
+            <a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/Amuricata&tracks=DNA%2Camuricata_gene_models" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+              A. muricata
+              <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <br>
+
+      <div class="row">
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Annona squamosa</i></h5>
           <div class="list-group">
             <a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/Annona_squamosa&tracks=DNA%2CAsquamosa_gene_models" target="_blank"
                class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
               A. squamosa (Iridian Genomes)
               <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
             </a>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Annona</i> spp.</h5>
+          <div class="list-group">
             <a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/Amontana&tracks=DNA%2CAmontana_gene_models" target="_blank"
                class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
               A. montana

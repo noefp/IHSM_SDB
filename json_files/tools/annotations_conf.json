@@ -32,7 +32,7 @@
   "Annona_muricata_annotations.txt": {
     "displayed_name":"<i>Annona muricata</i>",
     "description":"",
-    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAnnona_muricata&loc={gene_name}&tracks=DNA%2CAmuricata_gene_models",
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAmuricata&loc={gene_name}&tracks=DNA%2Camuricata_gene_models",
     "gene_blast_dbs": ["Annona_muricata_CDS.fasta","Annona_muricata_transcripts.fasta","Annona_muricata_proteins.fasta"]
   },
   "Theobroma_cacao_Criollo.txt": {

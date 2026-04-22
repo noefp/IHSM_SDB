@@ -6,6 +6,27 @@
       "public":"1",
       "link":"cherimoya.php"
     },
+  "Annona muricata":
+    {"card_title":"Annona muricata",
+      "card_subtitle":"Soursop",
+      "image":"muricata.png",
+      "public":"1",
+      "link":"muricata.php"
+    },
+  "Annona squamosa":
+    {"card_title":"Annona squamosa",
+      "card_subtitle":"Sugar apple",
+      "image":"squamosa.png",
+      "public":"1",
+      "link":"squamosa.php"
+    },
+  "Annona spp.":
+    {"card_title":"Annona spp.",
+      "card_subtitle":"Other annona species",
+      "image":"annona.png",
+      "public":"1",
+      "link":"annona.php"
+    },
     "Mangifera indica":
       {"card_title":"Mangifera indica",
         "card_subtitle":"Mango",
@@ -45,7 +66,7 @@
     "Theobroma cacao":
       {"card_title":"Theobroma cacao",
       "card_subtitle":"Cacao",
-      "image":"cacao.jpg",
+      "image":"cacao.png",
       "public":"1",
       "link":"cacao.php"
     },

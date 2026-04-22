@@ -41,7 +41,7 @@ $tb_rm_home = 1;
 $tb_about = 0;
 $tb_downloads = 0;
 $tb_species = 0;
-$tb_search_box = 0;
+$tb_search_box = 1;
 
 $tb_tools = 0;
 $tb_search = 1;
@@ -98,6 +98,7 @@ $max_expression_input = 150;
 $max_annotation_input = 20000;
 
 // BLAST
+$multiple_blast_db = 1;
 $blast_example=">protein_or_DNA
 ATGCCAAGCAGTCTCTGGATGGAGGGAGTTTGGAGCCATCAGGATGTAATTATTATAATTACTGTACAGA
 GGGTAGGGTTAACATTCATGATGGGTGGTAGCAGCTCCACAAGTACAAATGACCAGTCAGAGAGTTCAAG
