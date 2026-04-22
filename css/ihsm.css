@@ -38,15 +38,16 @@
     color: white;
 }
 
-.info-icon:hover{
-color: rgb(144, 190, 82) !important;
-/* background-color: white !important; */
+.categoric_info:hover{
+background-color: rgb(144, 190, 82);
+color: white;
 }
 
-.info-icon, .info-icon:active {
-color: #7a3 !important;
-/* background-color: white !important; */
+.categoric_info, .categoric_info:active {
+background-color: #7a3 ;
+color: white;
 }
+
 
 .collapse_section {
     user-select:none;
