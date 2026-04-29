@@ -24,17 +24,18 @@
   </div>
 </li>
 
+<li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Germplasm</a>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="/easy_gdb/tools/passport/view_subdirectories.php?dir_name=IHSM_Subtropicals_DB">IHSM Germplasm</a>
+    <a class="dropdown-item" href="/easy_gdb/tools/passport/passport_search_input.php">Passport and Phenotype Search</a>
+    <!-- <a class="dropdown-item" href="/easy_gdb/tools/expression/expression_input_private.php">Private Expression Atlas</a> -->
+  </div>
+</li>
+
 <li class="nav-item"><a class="nav-link" target="_blank" href="https://ihsm-bionas.uma.es/easy_gdb/downloads.php">Downloads</a></li>
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/about.php">About</a></li>
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/help/00_help.php">Help</a></li>
 
-<li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Private</a>
-  <div class="dropdown-menu">
-    <a class="dropdown-item" href="/easy_gdb/tools/passport/view_subdirectories.php?dir_name=IHSM_Subtropicals_DB">IHSM Germplasm</a>
-    <a class="dropdown-item" href="/easy_gdb/tools/passport/passport_search_input.php">Passport and Phenotype Search</a>
-    <a class="dropdown-item" href="/easy_gdb/tools/expression/expression_input_private.php">Private Expression Atlas</a>
-  </div>
-</li>
 
 
