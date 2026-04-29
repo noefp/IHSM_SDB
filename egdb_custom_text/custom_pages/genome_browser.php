@@ -4,14 +4,14 @@
 </div>
 <br>
 
-<div class="width900">
+<div>
   <div class="row">
     <div class="col-12">
 
       <!-- Genome Browser -->
       <h1 class="text-center">Genome Browser <i class="fas fa-stream" style="color:#555"></i></h1>
       <br>
-      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div id="tool-container" class="form margin-20" style="margin:auto">
 
 
 
