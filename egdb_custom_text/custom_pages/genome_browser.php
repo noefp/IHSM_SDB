@@ -201,11 +201,6 @@
               C. papaya 'SunUp'
               <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
             </a>
-            <a href="https://www.rosaceae.org/jbrowse/index.html?data=data%2Feriobotrya%2FEjaponica_v1.0&tracks=DNA%2CEriobotrya-japonica_v1.0_gene%2CEriobotrya-japonica_v1.0_transcript" target="_blank" title="Genome Database for Rosaceae"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
-              E. japonica 'Big Five-pointed Star'
-              <span class="badge badge-secondary badge-pill">GDR</span>
-            </a>
           </div>
         </div>
 
