@@ -183,7 +183,7 @@
           <div class="list-group">
             <a href="https://www.sapindaceae.com/jbrowse/index.html?data=litchiData&tracks=DNA%2Canno_gff3" target="_blank"
                class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
-              M. chinensis 'Feizixiao'
+              L. chinensis 'Feizixiao'
               <span class="badge badge-secondary badge-pill">SapBase</span>
             </a>
           </div>
@@ -220,8 +220,80 @@
           </div>
         </div>
       </div>
+
+      <br>
+
+      <div class="row">
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Asimina triloba</i></h5>
+          <div class="list-group">
+            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Pawpaw&tracks=DNA%2CAsitr_gene_models" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+              A. triloba 'Mango'
+              <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Opuntia spp.</i></h5>
+          <div class="list-group">
+            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Opuntia&tracks=DNA%2COpuba_gene_models" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+              O. basilaris
+              <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
+            </a>
+          </div>
+        </div>
       </div>
 
+      <br>
+
+      <div class="row">
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Selenicereus spp.</i></h5>
+          <div class="list-group">
+            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Opuntia&tracks=DNA%2COpuba_gene_models" target="_blank" data-toggle="modal" data-target="#jbrowse_unavailable"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              S. megalanthus
+              <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
+            </a>
+            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Opuntia&tracks=DNA%2COpuba_gene_models" target="_blank" data-toggle="modal" data-target="#jbrowse_unavailable"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              S. monacanthus 'Shuangse'
+              <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
+            </a>
+            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Opuntia&tracks=DNA%2COpuba_gene_models" target="_blank" data-toggle="modal" data-target="#jbrowse_unavailable"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              S. stenopterus 'Honghuaqinglong'
+              <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
+            </a>
+            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Sundatus&tracks=DNA%2Csundatus_gene_models" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+              S. undatus 'Guanhuabai'
+              <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
+            </a>
+            <a href="http://www.pitayagenomic.com/jbrowse/?data=data3&tracks=DNA%2CGFF3%20Annotations" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+              S. undatus 'Guanhuabai'
+              <span class="badge badge-secondary badge-pill">PitayaGenomic</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Passiflora edulis</i></h5>
+          <div class="list-group">
+            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Opuntia&tracks=DNA%2COpuba_gene_models" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+              P. edulis
+              <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      </div>
     </div>
   </div>
 </div>
