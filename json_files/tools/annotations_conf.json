@@ -98,7 +98,7 @@
   "Selenicereus_undatus.txt": {
     "displayed_name":"<i>Selenicereus undatus</i>",
     "description":"",
-    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FpSundatus&loc={gene_name}&tracks=DNA%2Csundatus_gene_models",
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSundatus&loc={gene_name}&tracks=DNA%2Csundatus_gene_models",
     "gene_blast_dbs": ["Sundatus_CDS.fasta", "Sundatus_proteins.fasta", "Sundatus_mRNA.fasta"]
   },
   "Asimina_triloba_annotations.txt": {
