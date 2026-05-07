@@ -43,16 +43,6 @@
         }
       },
       {
-        "person_name": "Juan M. Losada",
-        "position": "Tenured Scientist",
-        "picture": "losada.jpeg",
-        "link": "https://www.ihsm.uma-csic.es/investigadores/297",
-        "more_info": {
-          "phone": "(+34) 952548990",
-          "email": "juan.losada@csic.es"
-        }
-      },
-      {
         "person_name": "Antonio J. Matas",
         "position": "Professor",
         "picture": "matas.jpeg",
@@ -70,6 +60,16 @@
         "more_info": {
           "phone": "(+34) 952548990",
           "email": "glorialcasado@eelm.csic.es"
+        }
+      },
+      {
+        "person_name": "José Jorge González Fernández",
+        "position": "Horticulture Engineer",
+        "picture": "jorge.jpg",
+        "link": "",
+        "more_info": {
+          "phone": "(+34) 952548990",
+          "email": "jorgegonzalez-fernandez@eelm.csic.es"
         }
       },
       {
