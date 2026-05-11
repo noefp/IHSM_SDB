@@ -80,7 +80,7 @@
   "Selenicereus_megalanthus_annotations.txt": {
     "displayed_name":"<i>Selenicereus megalanthus</i>",
     "description":"",
-    "jbrowse":"",
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSmegalanthus&loc={gene_name}&tracks=DNA%2Csmegalanthus_gene_models",
     "gene_blast_dbs": ["Smegalanthus_CDS.fasta", "Smegalanthus_protein.fasta"]
   },
   "Selenicereus_monacanthus_annotations.txt": {

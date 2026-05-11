@@ -253,8 +253,8 @@
         <div class="col-md-6">
           <h5 style="color:#b52b27"><i>Selenicereus spp.</i></h5>
           <div class="list-group">
-            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Opuntia&tracks=DNA%2COpuba_gene_models" target="_blank" data-toggle="modal" data-target="#jbrowse_unavailable"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Smegalanthus&tracks=DNA%2Csmegalanthus_gene_models" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
               S. megalanthus
               <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
             </a>
