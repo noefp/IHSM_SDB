@@ -258,12 +258,12 @@
               S. megalanthus
               <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
             </a>
-            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Opuntia&tracks=DNA%2COpuba_gene_models" target="_blank" data-toggle="modal" data-target="#jbrowse_unavailable"
-               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Smonacanthus&tracks=DNA%2Csmonacanthus_gene_models" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
               S. monacanthus 'Shuangse'
               <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
             </a>
-            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Opuntia&tracks=DNA%2COpuba_gene_models" target="_blank" data-toggle="modal" data-target="#jbrowse_unavailable"
+            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Sstenopterus&tracks=DNA%2Csstenopterus_gene_models" target="_blank"
                class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               S. stenopterus 'Honghuaqinglong'
               <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
@@ -284,7 +284,7 @@
         <div class="col-md-6">
           <h5 style="color:#b52b27"><i>Passiflora edulis</i></h5>
           <div class="list-group">
-            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Opuntia&tracks=DNA%2COpuba_gene_models" target="_blank"
+            <a href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Pedulis&tracks=DNA%2Cpedulis_gene_models" target="_blank"
                class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
               P. edulis
               <span class="badge badge-success badge-pill">IHSMSubtropicals</span>
