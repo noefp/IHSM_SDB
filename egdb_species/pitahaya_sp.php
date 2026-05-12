@@ -2,7 +2,19 @@
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
-<a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/carambola&tracks=DNA%2Caveca_gene_models" target="_blank" class="btn btn-info sps-btn" role="button">Genome Browser</a>
+
+<div class="dropdown">
+  <a href="#" class="btn btn-info sps-btn dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Genome Browser
+  </a>
+  <div class="dropdown-menu bg-info">
+    <a class="dropdown-item text-white btn-hover" href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Smegalanthus&tracks=DNA%2Csmegalanthus_gene_models" target="_blank">S. megalanthus</a>
+    <a class="dropdown-item text-white btn-hover" href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Smonacanthus&tracks=DNA%2Csmonacanthus_gene_models" target="_blank">S. monacanthus</a>
+    <a class="dropdown-item text-white btn-hover" href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Sstenopterus&tracks=DNA%2Csstenopterus_gene_models" target="_blank">S. stenopterus</a>
+    <a class="dropdown-item text-white btn-hover" href="https://ihsm-bionas.uma.es/jbrowse/index.html?data=data/Sundatus&tracks=DNA%2Csundatus_gene_models" target="_blank">S. undatus</a>
+    <a class="dropdown-item text-white btn-hover" href="http://www.pitayagenomic.com/jbrowse/?data=data3&tracks=DNA%2CGFF3%20Annotations" target="_blank">S. undatus <i class="fas fa-external-link-alt"></i></a>
+  </div>
+</div>
 <a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button">BLAST</a>
 <a href="/easy_gdb/tools/fasta_download.php" class="btn btn-info sps-btn" role="button">Sequence Extraction</a>
 <a href="/easy_gdb/tools/annot_input_list.php" class="btn btn-info sps-btn" role="button">Annotation Extraction</a>

@@ -24,9 +24,5 @@
              <th>Genus</th>
              <td><i>Selenicereus</i> (A.Berger) Britton & Rose</td>
            </tr>
-           <tr>
-             <th>Species</th>
-             <td><i>Selenicereus undatus</i> (Haw.) D.R.Hunt</td>
-           </tr>
          </tbody>
        </table>
