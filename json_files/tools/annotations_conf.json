@@ -5,7 +5,7 @@
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAmontana&loc={gene_name}&tracks=DNA%2CAmontana_gene_models",
     "gene_blast_dbs": ["Annona_montana_genome.fasta","Annona_montana_CDS.fasta","Annona_montana_transcripts.fasta","Annona_montana_proteins.fasta"]
   },
-  "Annona_squamosa_annotations.txt": {
+  "Annona_squamosa.txt": {
     "displayed_name":"<i>Annona squamosa</i>",
     "description":"",
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAnnona_squamosa&loc={gene_name}&tracks=DNA%2CAsquamosa_gene_models",
