@@ -11,7 +11,7 @@
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAnnona_squamosa&loc={gene_name}&tracks=DNA%2CAsquamosa_gene_models",
     "gene_blast_dbs": ["Annona_squamosa_CDS.fasta","Annona_squamosa_transcripts.fasta","Annona_squamosa_proteins.fasta"]
   },
-  "Annona_glabra_annotations.txt": {
+  "Annona_glabra.txt": {
     "displayed_name":"<i>Annona glabra</i>",
     "description":"",
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAnnona_glabra&loc={gene_name}&tracks=DNA%2CAglabra_gene_models",
