@@ -1,9 +1,9 @@
 {
-  "Amontana_annotations.txt": {
+  "Annona montana.txt": {
     "displayed_name":"<i>Annona montana</i>",
     "description":"",
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAmontana&loc={gene_name}&tracks=DNA%2CAmontana_gene_models",
-    "gene_blast_dbs": ["Amontana_CDS.fasta","Amontana_transcripts.fasta","Amontana_proteins.fasta"]
+    "gene_blast_dbs": ["Annona_montana_genome.fasta","Annona_montana_CDS.fasta","Annona_montana_transcripts.fasta","Annona_montana_proteins.fasta"]
   },
   "Annona_squamosa_annotations.txt": {
     "displayed_name":"<i>Annona squamosa</i>",
