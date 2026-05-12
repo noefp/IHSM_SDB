@@ -89,11 +89,11 @@
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSmonacanthus&loc={gene_name}&tracks=DNA%2Csmonacanthus_gene_models",
     "gene_blast_dbs": ["Selenicereus_monocanthus_vR1_CDS.fasta", "Selenicereus_monocanthus_vR1_proteins.fasta", "Selenicereus_monocanthus_vR1_transcripts.fasta"]
   },
-  "Selenicereus_stenopterus_annotations.txt": {
+  "Selenicereus_stenopterus.txt": {
     "displayed_name":"<i>Selenicereus stenopterus</i>",
     "description":"",
-    "jbrowse":"",
-    "gene_blast_dbs": ["Sstenopterus_CDS.fasta", "Sstenopterus_protein.fasta", "Sstenopterus_mRNA.fasta"]
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSstenopterus&loc={gene_name}&tracks=DNA%2Csstenopterus_gene_models",
+    "gene_blast_dbs": ["Selenicereus_stenopterus_genome.fasta","Selenicereus_stenopterus_CDS.fasta", "Selenicereus_stenopterus_proteins.fasta", "Selenicereus_stenopterus_transcripts.fasta"]
   },
   "Selenicereus_undatus.txt": {
     "displayed_name":"<i>Selenicereus undatus</i>",

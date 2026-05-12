@@ -51,7 +51,7 @@
   "Selenicereus_megalanthus_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Pitahaya/Selenicereus_megalanthus.txt",
   "Selenicereus_megalanthus_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Pitahaya/Selenicereus_megalanthus.txt",
   "Selenicereus_stenopterus_genome.fasta":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSstenopterus&loc={chr}%3A{start}..{end}&tracks=DNA%2Csstenopterus_gene_models",
-  "Selenicereus_stenopterus_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Pitahaya/Selenicereus_stenopterus_annotations.txt",
+  "Selenicereus_stenopterus_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=Pitahaya/Selenicereus_stenopterus.txt",
   "Selenicereus_stenopterus_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=Pitahaya/Selenicereus_stenopterus.txt",
   "Selenicereus_stenopterus_mRNA.fasta":"/easy_gdb/gene.php?name={subject}&annot=Pitahaya/Selenicereus_stenopterus.txt",
   "Theobroma_Cacao_Criollo_Genomic.fasta":"https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Criollo&loc={chr}%3A{start}..{end}&tracks=DNA%2CCacao_Criollo",
