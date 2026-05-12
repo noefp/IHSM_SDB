@@ -83,11 +83,11 @@
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSmegalanthus&loc={gene_name}&tracks=DNA%2Csmegalanthus_gene_models",
     "gene_blast_dbs": ["Selenicereus_megalanthus_genome.fasta","Selenicereus_megalanthus_CDS.fasta", "Selenicereus_megalanthus_proteins.fasta"]
   },
-  "Selenicereus_monacanthus_annotations.txt": {
-    "displayed_name":"<i>Selenicereus monacanthus cv.ShuangSe</i>",
+  "Selenicereus_monacanthus.txt": {
+    "displayed_name":"<i>Selenicereus monacanthus</i>",
     "description":"",
-    "jbrowse":"",
-    "gene_blast_dbs": ["Smonacanthus_CDS.fasta", "Smonacanthus_protein.fasta", "Smonacanthus_mRNA.fasta"]
+    "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSmonacanthus&loc={gene_name}&tracks=DNA%2Csmonacanthus_gene_models",
+    "gene_blast_dbs": ["Selenicereus_monocanthus_vR1_CDS.fasta", "Selenicereus_monocanthus_vR1_proteins.fasta", "Selenicereus_monocanthus_vR1_transcripts.fasta"]
   },
   "Selenicereus_stenopterus_annotations.txt": {
     "displayed_name":"<i>Selenicereus stenopterus</i>",
