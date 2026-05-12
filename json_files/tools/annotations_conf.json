@@ -17,11 +17,11 @@
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAnnona_glabra&loc={gene_name}&tracks=DNA%2CAglabra_gene_models",
     "gene_blast_dbs": ["Annona_glabra_CDS.fasta","Annona_glabra_transcripts.fasta","Annona_glabra_proteins.fasta"]
   },
-  "Acherimola_booth_annotations.txt": {
+  "Annona_cherimola_Booth.txt": {
     "displayed_name":"<i>Annona cherimola</i> Booth",
     "description":"",
     "jbrowse":"https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAcherimola_booth&loc={gene_name}&tracks=DNA%2CAcherimola_booth_gene_models",
-    "gene_blast_dbs": ["Acherimola_booth_CDS.fasta","Acherimola_booth_proteins.fasta"]
+    "gene_blast_dbs": ["Annona_cherimola_Booth_genome.fasta","Annona_cherimola_Booth_CDS.fasta","Annona_cherimola_Booth_proteins.fasta"]
   },
   "Annona_cherimola_Annotations.txt": {
     "displayed_name":"<i>Annona cherimola</i> v102",
