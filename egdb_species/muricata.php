@@ -2,7 +2,7 @@
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path . '/species/' . $sps_img ?>">
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
-<a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/amuri101" target="_blank" class="btn btn-info sps-btn" role="button">Genome Browser</a>
+<a href="https://ihsm-bionas.uma.es/jbrowse/?data=data/Amuricata&tracks=DNA%2Camuricata_gene_models" target="_blank" class="btn btn-info sps-btn" role="button">Genome Browser</a>
 <a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button">BLAST</a>
 <a href="/easy_gdb/tools/fasta_download.php" class="btn btn-info sps-btn" role="button">Sequence Extraction</a>
 <a href="/easy_gdb/tools/annot_input_list.php" class="btn btn-info sps-btn" role="button">Annotation Extraction</a>
@@ -42,39 +42,14 @@
 
 <br>
 
-<h3>Documents</h3>
-<div class="row" style="width:900px;margin-left:0px">
-    <div class="col" style="padding:0px">
-        <div class="card">
-            <div class="card-body">
-                <a href="#"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Descriptors for soursop</a>
-            </div>
-        </div>
-    </div>
-    <div class="col" style="padding:0px">
-        <div class="card">
-            <div class="card-body">
-                <a href="#"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Soursop technical sheet</a>
-            </div>
-        </div>
-    </div>
-    <div class="col" style="padding:0px">
-        <div class="card">
-            <div class="card-body">
-                <a href="#"><em class='far fa-file-pdf' style='font-size:30px;color:red'></em> Pest management guide</a>
-            </div>
-        </div>
-    </div>
-</div>
-
-<br>
-
 <h3>Genome assembly stats</h3>
 <p>
     Summary statistics of the <em>Annona muricata</em> reference genome assembly (<a href="https://doi.org/10.1111/1755-0998.13353" target="_blank">Strijk et al., 2021</a>).
 </p>
 <?php include_once("muricata_genome_table.php"); ?>
 <sup>a</sup> BUSCO based on embryophyta_odb12 dataset
+<br>
+<sup>b</sup> No gene models available, BUSCO based on Helixer prediction
 <br><br>
 
 <h3>Taxonomy</h3>
@@ -83,7 +58,6 @@
 
 <h3>Links of interest</h3>
 <ul>
-    <li><a href="https://www.cabi.org/isc/datasheet/5811" target="_blank">Soursop Datasheet at CABI</a></li>
-    <li><a href="https://www.ncbi.nlm.nih.gov/genome/?term=Annona+muricata" target="_blank">NCBI Genome Database - A. muricata</a></li>
+    <li><a href="https://www.cabi.org/isc/datasheet/5812" target="_blank">Soursop Datasheet at CABI</a></li>
 </ul>
 <br>

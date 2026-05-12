@@ -39,8 +39,8 @@
       <td>3</td>
     </tr>
     <tr>
-      <td>BUSCO completeness<sup>a</sup> (%)</td>
-      <td>91.73</td>
+      <td>BUSCO completeness<sup>a,b</sup> (%)</td>
+      <td>89.73</td>
     </tr>
   </tbody>
 </table>
