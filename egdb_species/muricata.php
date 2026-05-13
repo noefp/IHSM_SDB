@@ -49,7 +49,7 @@
 <?php include_once("muricata_genome_table.php"); ?>
 <sup>a</sup> BUSCO based on embryophyta_odb12 dataset
 <br>
-<sup>b</sup> No gene models available, BUSCO based on Helixer prediction
+<sup>b</sup> BUSCO based on <a href="https://github.com/usadellab/Helixer" target="_blank">Helixer</a> prediction
 <br><br>
 
 <h3>Taxonomy</h3>
