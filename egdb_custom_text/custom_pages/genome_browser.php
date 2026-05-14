@@ -11,7 +11,7 @@
       <!-- Genome Browser -->
       <h1 class="text-center">Genome Browser <i class="fas fa-stream" style="color:#555"></i></h1>
       <br>
-      <div id="tool-container" class="form margin-20" style="margin:auto">
+      <div class="form margin-20 tool-container" style="margin:auto">
 
 
 
