@@ -11,12 +11,12 @@
 <a href="https://www.avocado.uma.es/easy_gdb/downloads.php" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
 <br style="clear:both"/>
 
-<div class="row" style="max-width:900px;margin-left:0px">
+<div class="row" style="max-width:1200px;margin-left:0px">
   <h5 style="text-align:left;">
     Genomics tools and data available at:
     <br><br>
     <div style="text-align: center;">
-      <a href="https://www.avocado.uma.es/easy_gdb/index.php" target="_blank"><img src='<?php echo "$images_path/avobase_banner.png";?>' style="width:60%;"></a>
+      <a href="https://www.avocado.uma.es/easy_gdb/index.php" target="_blank"><img src='<?php echo "$images_path/avobase_banner.png";?>' style="width:45%;"></a>
     </div>
   </h5>
 </div>
@@ -68,7 +68,7 @@
 <br>
 
 <h3>Documents</h3>
-<div class="row" style="width:900px;margin-left:0px">
+<div class="row" style="width:1200px;margin-left:0px">
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
@@ -85,7 +85,7 @@
   </div>
 </div>
 
-<div class="row" style="width:900px;margin-left:0px">
+<div class="row" style="width:1200px;margin-left:0px">
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
@@ -102,7 +102,7 @@
   </div>
 </div>
 
-<div class="row" style="width:900px;margin-left:0px">
+<div class="row" style="width:1200px;margin-left:0px">
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">

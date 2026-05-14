@@ -8,12 +8,12 @@
 <a href="/easy_gdb/downloads.php#Annonacherimola" class="btn btn-info sps-btn" role="button">Downloads</a>
 <br style="clear:both"/>
 
-<div class="row" style="max-width:900px;margin-left:0px">
+<div class="row" style="max-width:1200px;margin-left:0px">
   <h5 style="text-align:left;">
     Genomics tools and data available at:
     <br><br>
     <div style="text-align: center;">
-<a href="http://passionfruit.com.cn/index.html" target="_blank"><img src='<?php echo "$images_path/passionfruit_db.png";?>' style="width:60%;"></a>
+<a href="http://passionfruit.com.cn/index.html" target="_blank"><img src='<?php echo "$images_path/passionfruit_db.png";?>' style="width:45%;"></a>
     </div>
   </h5>
 </div>

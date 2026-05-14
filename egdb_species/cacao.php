@@ -19,7 +19,6 @@
 <a href="https://ihsm-bionas.uma.es/easy_gdb/downloads.php" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
 
 <br style="clear:both"/>
-<br>
 
 <div style="margin-bottom: 30px;">
   <h5 style="color: #444; margin-bottom: 12px;">More genomic tools and resources at:</h5>
@@ -40,8 +39,6 @@
 
   </div>
 </div>
-
-<br>
 
 
 <p>
@@ -87,7 +84,7 @@
 <br>
 
 <h3>Documents</h3>
-<div class="row" style="width:900px;margin-left:0px">
+<div class="row" style="width:1200px;margin-left:0px">
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
