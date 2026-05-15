@@ -42,7 +42,7 @@
 <br>
 
 <h3>Documents</h3>
-<div class="row" style="width:1200px;margin-left:0px">
+<div class="row" style="width:1150px;margin-left:0px;margin-right:0px;">
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
@@ -66,7 +66,7 @@
   </div>
 </div>
   
-<div class="row" style="width:1200px;margin-left:0px">
+<div class="row" style="width:1150px;margin-left:0px">
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">
@@ -83,7 +83,7 @@
   </div>
 </div>
   
-<div class="row" style="width:1200px;margin-left:0px">
+<div class="row" style="width:1150px;margin-left:0px">
   <div class="col" style="padding:0px">
     <div class="card">
       <div class="card-body">

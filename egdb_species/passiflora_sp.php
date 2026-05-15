@@ -7,7 +7,7 @@
 <a href="/easy_gdb/downloads.php#Annonacherimola" class="btn btn-info sps-btn" role="button">Downloads</a>
 <br style="clear:both"/>
 
-<div class="row" style="max-width:1200px;margin-left:0px">
+<div class="row" style="max-width:1150px;margin-left:0px">
   <h5 style="text-align:left;">
     Genomics tools and data available at:
     <br><br>
