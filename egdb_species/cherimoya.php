@@ -1,4 +1,3 @@
-<br>
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
@@ -122,4 +121,3 @@
   <li><a href="https://bancocrf.inia.es/es/accessions?institute_code=ESP058&taxon=Annona&rank=genus" target="_blank">Cherimoya Spanish Germplasm Bank</a></li>
   <li><a href="https://www.cabi.org/isc/datasheet/5806" target="_blank">Cherimoya Datasheet at CABI</a></li>
 </ul>
-<br>

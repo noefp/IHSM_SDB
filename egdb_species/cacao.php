@@ -1,4 +1,3 @@
-<br>
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
@@ -115,4 +114,3 @@
 <ul>
   <li><a href="https://www.icgd.reading.ac.uk/" target="_blank" rel="noopener noreferrer">ICGD (International Cocoa Germplasm Database)</a></li>
 </ul>
-<br>

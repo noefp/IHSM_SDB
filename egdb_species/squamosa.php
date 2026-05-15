@@ -1,4 +1,3 @@
-<br>
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
@@ -51,4 +50,3 @@
 <ul>
     <li><a href="https://www.cabi.org/isc/datasheet/5820" target="_blank">Sugar apple Datasheet at CABI</a></li>
 </ul>
-<br>

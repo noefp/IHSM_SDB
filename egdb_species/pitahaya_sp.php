@@ -1,4 +1,3 @@
-<br>
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
@@ -93,4 +92,3 @@ The pitahaya plant is a climbing or vining cactus with aerial roots that allow i
 
 <h3>Taxonomy</h3>
 <?php include_once("pitahaya_classification_table.php");?>
-<br>

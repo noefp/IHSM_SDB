@@ -1,4 +1,3 @@
-<br>
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><em><?php echo $sps_title ?></em></h3>
@@ -57,13 +56,12 @@
 <?php include_once("feijoa_classification_table.php");?>
 <br>
 <h3>Homotypic Synonyms</h3>
- <table class="table table-bordered">
-         <tbody>
-           <tr>
-             <td><i>Acca sellowiana</i> (O.Berg) Burret</td>
-           </tr>
-           <tr>
-             <td><i>Orthostemon sellowianus</i> O.Berg</td>
-         </tbody>
-       </table>
-<br>
+<table class="table table-bordered">
+   <tbody>
+      <tr>
+         <td><i>Acca sellowiana</i> (O.Berg) Burret</td>
+      </tr>
+      <tr>
+         <td><i>Orthostemon sellowianus</i> O.Berg</td>
+   </tbody>
+</table>
