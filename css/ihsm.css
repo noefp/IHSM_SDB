@@ -3,6 +3,10 @@ html,body {
    padding-bottom: 20px;
 }
 
+table {
+  background-color: white;
+}
+
 .navbar {
   background: linear-gradient(60deg, #203d00, #8b4);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
