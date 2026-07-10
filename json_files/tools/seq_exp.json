@@ -131,7 +131,8 @@
   "Theobroma_cacao_Criollo": {
     "gene_names_file": "gff_tool/gene_names/gene_names_tcacao_criollo.txt",
     "gff_file": "gff_tool/gff_files/Theobroma_cacao_Criollo.gff.gz",
-    "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Criollo&loc={gene_name}&tracks=DNA%2CCriollo_Genes"
+    "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Criollo&loc={gene_name}&tracks=DNA%2CCriollo_Genes",
+    "blast_db": "blast_dbs/Theobroma_cacao_Criollo/Theobroma_cacao_Criollo_Genomic.fasta"
   },
   "Theobroma_cacao_Matina": {
     "gene_names_file": "gff_tool/gene_names/gene_names_tcacao_matina.txt",
