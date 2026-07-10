@@ -1,141 +1,141 @@
 {
   "Annona_cherimola_Booth": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_acherimola_booth.txt",
-    "gff_file": "downloads/Annona_cherimola_Booth/Annotations/Acherimola_booth_annot.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_acherimola_booth.txt",
+    "gff_file": "gff_tool/gff_files/Acherimola_booth_annot.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAcherimola_booth&loc={gene_name}&tracks=DNA%2CAcherimola_booth_gene_models",
     "blast_db": "blast_dbs/Annona_cherimola_Booth/Annona_cherimola_Booth_genome.fasta"
   },
   "Annona_cherimola_Fino_de_Jete": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_acherimola_finodejete.txt",
-    "gff_file": "downloads/Annona_cherimola_Fino_de_Jete/Annotations/Anche102_gene_models.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_acherimola_finodejete.txt",
+    "gff_file": "gff_tool/gff_files/Anche102_gene_models.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Fanche102&loc={gene_name}&tracks=DNA%2Canche102_genes",
     "blast_db": "blast_dbs/Annona_cherimola_Fino_de_Jete/Annona_cherimola_Fino_de_Jete_v102_genome.fasta"
   },
   "Annona_glabra": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_aglabra.txt",
-    "gff_file": "downloads/Annona_glabra/Annotations/Aglabra_annot.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_aglabra.txt",
+    "gff_file": "gff_tool/gff_files/Aglabra_annot.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAnnona_glabra&loc={gene_name}&tracks=DNA%2CAglabra_gene_models",
     "blast_db": "blast_dbs/Annona_glabra/Annona_glabra_genome.fasta"
   },
   "Annona_montana": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_amontana.txt",
-    "gff_file": "downloads/Annona_montana/Annotations/Amontana_annot.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_amontana.txt",
+    "gff_file": "gff_tool/gff_files/Amontana_annot.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAmontana&loc={gene_name}&tracks=DNA%2CAmontana_gene_models",
     "blast_db": "blast_dbs/Annona_montana/Annona_montana_genome.fasta"
   },
   "Annona_muricata": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_amuricata.txt",
-    "gff_file": "downloads/Annona_muricata/Annotations/Amuricata_annot.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_amuricata.txt",
+    "gff_file": "gff_tool/gff_files/Amuricata_annot.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAmuricata&loc={gene_name}&tracks=DNA%2camuricata_gene_models",
     "blast_db": "blast_dbs/Annona_muricata/Annona_muricata_genome.fasta"
   },
   "Annona_squamosa": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_asquamosa.txt",
-    "gff_file": "downloads/Annona_squamosa/Annotations/Asquamosa_annot.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_asquamosa.txt",
+    "gff_file": "gff_tool/gff_files/Asquamosa_annot.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FAnnona_squamosa&loc={gene_name}&tracks=DNA%2CAsquamosa_gene_models",
     "blast_db": "blast_dbs/Annona_squamosa/Annona_squamosa_genome.fasta"
   },
   "Asimina_triloba": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_atriloba.txt",
-    "gff_file": "downloads/Asimina_triloba/Annotations/Atriloba_vH1.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_atriloba.txt",
+    "gff_file": "gff_tool/gff_files/Atriloba_vH1.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FPawpaw&loc={gene_name}&tracks=DNA%2CAsitr_gene_models",
     "blast_db": "blast_dbs/Asimina_triloba/Atriloba_genome.fasta"
   },
   "Averrhoa_carambola": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_acarambola.txt",
-    "gff_file": "downloads/Averrhoa_carambola/Annotations/Acarambola_vR1.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_acarambola.txt",
+    "gff_file": "gff_tool/gff_files/Acarambola_vR1.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Fcarambola&loc={gene_name}&tracks=DNA%2Caveca_gene_models",
     "blast_db": "blast_dbs/Averrhoa_carambola/carambola_genome.fasta"
   },
   "Carica_papaya": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_cpapaya.txt",
-    "gff_file": "downloads/Carica_papaya/Annotations/Carica_papaya.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_cpapaya.txt",
+    "gff_file": "gff_tool/gff_files/Carica_papaya.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Fpapaya&loc={gene_name}&tracks=DNA%2Ccarpa_gene_models",
     "blast_db": "blast_dbs/Carica_papaya/papaya_genome.fasta"
   },
   "Dimocarpus_longan": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_dlongan.txt",
-    "gff_file": "downloads/Dimocarpus_longan/Annotations/Dlongan.gff3.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_dlongan.txt",
+    "gff_file": "gff_tool/gff_files/Dlongan.gff3.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Flongan&loc={gene_name}&tracks=DNA%2Cdimlo_gene_models",
     "blast_db": "blast_dbs/Dimocarpus_longan/longan_genome.fasta"
   },
   "Eriobotrya_japonica": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_ejaponica.txt",
-    "gff_file": "downloads/Eriobotrya_japonica/ Annotations/Ejaponica_vR1.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_ejaponica.txt",
+    "gff_file": "gff_tool/gff_files/Ejaponica_vR1.gff.gz",
     "jb_data_folder": "Eriobotrya japonica",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Floquat&loc={gene_name}&tracks=DNA%2Cerija_gene_models",
     "blast_db": "blast_dbs/Eriobotrya_japonica/loquat_genome.fasta"
   },
   "Litchi_chinensis": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_lchinensis.txt",
-    "gff_file": "downloads/Litchi_chinensis/Annotations/Lchinensis_genome.gff3.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_lchinensis.txt",
+    "gff_file": "gff_tool/gff_files/Lchinensis_genome.gff3.gz",
     "jbrowse": ""
   },
   "Mangifera_indica_Alphonso": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_mindica_alphonso.txt",
-    "gff_file": "downloads/Mangifera_indica_Alphonso/Annotations/Mangifera_indica_Alphonso.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_mindica_alphonso.txt",
+    "gff_file": "gff_tool/gff_files/Mangifera_indica_Alphonso.gff.gz",
     "jbrowse": ""
   },
   "Mangifera_indica_tommy_atkins": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_mindica_tommyatkins.txt",
-    "gff_file": "downloads/Mangifera_indica_tommy_atkins/Annotations/mango_TA4_gene_models.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_mindica_tommyatkins.txt",
+    "gff_file": "gff_tool/gff_files/mango_TA4_gene_models.gff.gz",
     "jbrowse": ""
   },
   "Opuntia_basilaris": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_obasilaris.txt",
-    "gff_file": "downloads/Opuntia_basilaris/Annotations/Opuntia_basilaris_vH1.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_obasilaris.txt",
+    "gff_file": "gff_tool/gff_files/Opuntia_basilaris_vH1.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FOpuntia&loc={gene_name}&tracks=DNA%2COpuba_gene_models",
     "blast_db": "blast_dbs/Opuntia_basilaris/Obasilaris_genome.fasta"
   },
   "Passiflora_edulis": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_pedulis.txt",
-    "gff_file": "downloads/Passiflora_edulis/Annotations/Passiflora_edulis_vR1.gff3.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_pedulis.txt",
+    "gff_file": "gff_tool/gff_files/Passiflora_edulis_vR1.gff3.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FPedulis&loc={gene_name}&tracks=DNA%2Cpedulis_gene_models",
     "blast_db": "blast_dbs/Passiflora_edulis/Passiflora_edulis_genome.fasta"
   },
   "Persea_americana_Gwen": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_pagwen.txt",
-    "gff_file": "downloads/Persea_americana_Gwen/Annotations/Avocado_Gwen_gene_annotation_all_isoforms.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_pagwen.txt",
+    "gff_file": "gff_tool/gff_files/Avocado_Gwen_gene_annotation_all_isoforms.gff.gz",
     "jb_data_folder": "Persea americana Gwen",
     "jbrowse": ""
   },
   "Persea_americana_Hass": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_pahass.txt",
-    "gff_file": "downloads/Persea_americana_Hass/Annotations/Avocado_Hass_HiFi_Gr80_gene_annotation.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_pahass.txt",
+    "gff_file": "gff_tool/gff_files/Avocado_Hass_HiFi_Gr80_gene_annotation.gff.gz",
     "jbrowse": ""
   },
   "Selenicereus_megalanthus": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_smegalanthus.txt",
-    "gff_file": "downloads/Selenicereus_megalanthus/Annotations/Selenicereus_megalanthus.gene.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_smegalanthus.txt",
+    "gff_file": "gff_tool/gff_files/Selenicereus_megalanthus.gene.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSmegalanthus&loc={gene_name}&tracks=DNA%2Csmegalanthus_gene_models",
     "blast_db": "blast_dbs/Selenicereus_megalanthus/Selenicereus_megalanthus_genome.fasta"
   },
   "Selenicereus_monacanthus": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_smonacanthus.txt",
-    "gff_file": "downloads/Selenicereus_monacanthus/Annotations/Selenicereus_monacanthus_vR1.gff3.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_smonacanthus.txt",
+    "gff_file": "gff_tool/gff_files/Selenicereus_monacanthus_vR1.gff3.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSmonacanthus&loc={gene_name}&tracks=DNA%2Csmonacanthus_gene_models",
     "blast_db": "blast_dbs/Selenicereus_monacanthus/Selenicereus_monacanthus_genome.fasta"
   },
   "Selenicereus_stenopterus": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_sstenopterus.txt",
-    "gff_file": "downloads/Selenicereus_stenopterus/Annotations/Selenicereus_stenopterus.gff3.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_sstenopterus.txt",
+    "gff_file": "gff_tool/gff_files/Selenicereus_stenopterus.gff3.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSstenopterus&loc={gene_name}&tracks=DNA%2Csstenopterus_gene_models",
     "blast_db": "blast_dbs/Selenicereus_stenopterus/Selenicereus_stenopterus_genome.fasta"
   },
   "Selenicereus_undatus": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_sundatus.txt",
-    "gff_file": "downloads/Selenicereus_undatus/Annotations/Selenicereus_undatus.gff3.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_sundatus.txt",
+    "gff_file": "gff_tool/gff_files/Selenicereus_undatus.gff3.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSundatus&loc={gene_name}&tracks=DNA%2Csundatus_gene_models",
     "blast_db": "blast_dbs/Selenicereus_undatus/Selenicereus_undatus_genome.fasta"
   },
   "Theobroma_cacao_Criollo": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_tcacao_criollo.txt",
-    "gff_file": "downloads/Theobroma_cacao_Criollo/Annotations/Theobroma_cacao_Criollo.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_tcacao_criollo.txt",
+    "gff_file": "gff_tool/gff_files/Theobroma_cacao_Criollo.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/?data=data%2FCacao_Criollo&loc={gene_name}&tracks=DNA%2CCriollo_Genes"
   },
   "Theobroma_cacao_Matina": {
-    "gene_names_file": "gff_tool/gene_names/gff_file/gene_names_tcacao_matina.txt",
-    "gff_file": "downloads/Theobroma_cacao_Matina/Annotations/Theobroma_cacao_Matina.gff.gz",
+    "gene_names_file": "gff_tool/gene_names/gene_names_tcacao_matina.txt",
+    "gff_file": "gff_tool/gff_files/Theobroma_cacao_Matina.gff.gz",
     "jbrowse": "https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FTcacao_v2_1&loc={gene_name}&tracks=DNA%2CTranscripts",
     "blast_db": "blast_dbs/Theobroma_Cacao_Matina/Theobroma_Cacao_Matina_genome.fasta"
   }
