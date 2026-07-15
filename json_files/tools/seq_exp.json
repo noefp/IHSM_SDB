@@ -39,53 +39,38 @@
     "gene_names_file": "gff_tool/gene_names/gene_names_atriloba.txt",
     "gff_file": "gff_tool/gff_files/Atriloba_vH1.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FPawpaw&loc={gene_name}&tracks=DNA%2CAsitr_gene_models",
-    "blast_db": "blast_dbs/Asimina_triloba/Atriloba_genome.fasta"
+    "blast_db": "blast_dbs/Asimina_triloba/Asimina_triloba_genome.fasta"
   },
   "Averrhoa_carambola": {
     "gene_names_file": "gff_tool/gene_names/gene_names_acarambola.txt",
     "gff_file": "gff_tool/gff_files/Acarambola_vR1.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Fcarambola&loc={gene_name}&tracks=DNA%2Caveca_gene_models",
-    "blast_db": "blast_dbs/Averrhoa_carambola/carambola_genome.fasta"
+    "blast_db": "blast_dbs/Averrhoa_carambola/Averrhoa_carambola_genome.fasta"
   },
   "Carica_papaya": {
     "gene_names_file": "gff_tool/gene_names/gene_names_cpapaya.txt",
     "gff_file": "gff_tool/gff_files/Cpapaya.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Fpapaya&loc={gene_name}&tracks=DNA%2Ccarpa_gene_models",
-    "blast_db": "blast_dbs/Carica_papaya/papaya_genome.fasta"
+    "blast_db": "blast_dbs/Carica_papaya/Carica_papaya_genome.fasta"
   },
   "Dimocarpus_longan": {
     "gene_names_file": "gff_tool/gene_names/gene_names_dlongan.txt",
     "gff_file": "gff_tool/gff_files/Dlongan.gff3.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Flongan&loc={gene_name}&tracks=DNA%2Cdimlo_gene_models",
-    "blast_db": "blast_dbs/Dimocarpus_longan/longan_genome.fasta"
+    "blast_db": "blast_dbs/Dimocarpus_longan/Dimocarpus_longan_genome.fasta"
   },
   "Eriobotrya_japonica": {
     "gene_names_file": "gff_tool/gene_names/gene_names_ejaponica.txt",
     "gff_file": "gff_tool/gff_files/Ejaponica_vR1.gff.gz",
     "jb_data_folder": "Eriobotrya japonica",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2Floquat&loc={gene_name}&tracks=DNA%2Cerija_gene_models",
-    "blast_db": "blast_dbs/Eriobotrya_japonica/loquat_genome.fasta"
-  },
-  "Litchi_chinensis": {
-    "gene_names_file": "gff_tool/gene_names/gene_names_lchinensis.txt",
-    "gff_file": "gff_tool/gff_files/Lchinensis_genome.gff3.gz",
-    "jbrowse": ""
-  },
-  "Mangifera_indica_Alphonso": {
-    "gene_names_file": "gff_tool/gene_names/gene_names_mindica_alphonso.txt",
-    "gff_file": "gff_tool/gff_files/Mangifera_indica_Alphonso.gff.gz",
-    "jbrowse": ""
-  },
-  "Mangifera_indica_tommy_atkins": {
-    "gene_names_file": "gff_tool/gene_names/gene_names_mindica_tommyatkins.txt",
-    "gff_file": "gff_tool/gff_files/mango_TA4_gene_models.gff.gz",
-    "jbrowse": ""
+    "blast_db": "blast_dbs/Eriobotrya_japonica/Eriobotrya_japonica_genome.fasta"
   },
   "Opuntia_basilaris": {
     "gene_names_file": "gff_tool/gene_names/gene_names_obasilaris.txt",
     "gff_file": "gff_tool/gff_files/Obasilaris_vH1.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FOpuntia&loc={gene_name}&tracks=DNA%2COpuba_gene_models",
-    "blast_db": "blast_dbs/Opuntia_basilaris/Obasilaris_genome.fasta"
+    "blast_db": "blast_dbs/Opuntia_basilaris/Opuntia_basilaris_genome.fasta"
   },
   "Passiflora_edulis": {
     "gene_names_file": "gff_tool/gene_names/gene_names_pedulis.txt",
@@ -93,22 +78,11 @@
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FPedulis&loc={gene_name}&tracks=DNA%2Cpedulis_gene_models",
     "blast_db": "blast_dbs/Passiflora_edulis/Passiflora_edulis_genome.fasta"
   },
-  "Persea_americana_Gwen": {
-    "gene_names_file": "gff_tool/gene_names/gene_names_pagwen.txt",
-    "gff_file": "gff_tool/gff_files/Avocado_Gwen_gene_annotation_all_isoforms.gff.gz",
-    "jb_data_folder": "Persea americana Gwen",
-    "jbrowse": ""
-  },
-  "Persea_americana_Hass": {
-    "gene_names_file": "gff_tool/gene_names/gene_names_pahass.txt",
-    "gff_file": "gff_tool/gff_files/Avocado_Hass_HiFi_Gr80_gene_annotation.gff.gz",
-    "jbrowse": ""
-  },
   "Selenicereus_megalanthus": {
     "gene_names_file": "gff_tool/gene_names/gene_names_smegalanthus.txt",
     "gff_file": "gff_tool/gff_files/Selenicereus_megalanthus.gene.gff.gz",
     "jbrowse": "https://ihsm-bionas.uma.es/jbrowse/index.html?data=data%2FSmegalanthus&loc={gene_name}&tracks=DNA%2Csmegalanthus_gene_models",
-    "blast_db": "blast_dbs/Selenicereus_megalanthus/Selenicereus_megalanthus.fasta"
+    "blast_db": "blast_dbs/Selenicereus_megalanthus/Selenicereus_megalanthus_genome.fasta"
   },
   "Selenicereus_monacanthus": {
     "gene_names_file": "gff_tool/gene_names/gene_names_smonacanthus.txt",
@@ -138,6 +112,6 @@
     "gene_names_file": "gff_tool/gene_names/gene_names_tcacao_matina.txt",
     "gff_file": "gff_tool/gff_files/TCacao_Matina_gene_annotation.gff.gz",
     "jbrowse": "https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FTcacao_v2_1&loc={gene_name}&tracks=DNA%2CTranscripts",
-    "blast_db": "blast_dbs/Theobroma_Cacao_Matina/Theobroma_Cacao_Matina_genome.fasta"
+    "blast_db": "blast_dbs/Theobroma_cacao_Matina/Theobroma_cacao_Matina_genome.fasta"
   }
 }
